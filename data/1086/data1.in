@@ -1,0 +1,54 @@
+New Year Phone Survey for ACM ICPC
+Q01 Hello!
+ H Hello!
+ Y Yes!
+ * Uhm...
+ . (silence)
+ @ (other)
+Q02 How are you?
+ H Hello!
+ Y Yes!
+ F Fine!
+ Q Who are you?
+ @ (other)
+BYE Happy New Year!
+ Y You too.
+ * (censored)
+ @ (other)
+ . (hang up)
+OS: What OS are You using at most?
+ L Linux
+ F FreeBSD
+ S Solaris
+ W Windoze 95/98/ME
+ $ Windoze NT/2K/XP
+RAM How much memory does Your computer have?
+ 1 < 128 MB
+ 2 128 MB
+ 3 256 MB
+ 4 512 MB
+ 5 > 512 MB
+HDD What is the capacity of Your Hard drives?
+ 1 < 10 GB
+ 2 10 GB <= size < 20 GB
+ 3 20 GB <= size < 40 GB
+ 4 40 GB <= size < 60 GB
+ 5 60 GB <= size < 100 GB
+ 6 >= 100 GB
+#
+.@.L45
+HH@L35
+.@.L44
+YFYL34
+HQ*F43
+H@.F55
+YYYS56
+.H@W21
+HFYW12
+HH@$43
+#
+Q01 Q02 Health vs greeting style
+Q02 BYE Politeness matrix
+OS: HDD Server capacity
+RAM HDD Computer equipment
+#

@@ -1,0 +1,27 @@
+Test Case 1
+OK
+
+Test Case 2
+line 1: too many/few characters in tag name.
+
+Test Case 3
+line 3: too many/few characters in tag name.
+
+Test Case 4
+line 1: bad character in tag name.
+
+Test Case 5
+OK
+
+Test Case 6
+line 1: expected </START>
+
+Test Case 7
+line 1: no matching begin tag.
+
+Test Case 8
+OK
+
+Test Case 9
+line 12: expected </BL>
+

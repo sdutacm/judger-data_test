@@ -1,0 +1,2344 @@
+Race 1 has 5 legs
+The race layout is 193.99 nm long
+
+Leg 1 from mark M0 to M1: direction = 96.0, distance = 19.10
+Tack 1: speed = 30.6, direction = 96.0, distance = 19.10
+
+Leg 2 from mark M1 to M2: direction = 76.5, distance = 73.01
+Tack 2: speed = 30.6, direction = 76.5, distance = 73.01
+
+Leg 3 from mark M2 to M3: direction = 296.6, distance = 24.60
+Tack 3: speed = 30.6, direction = 296.6, distance = 24.60
+
+Leg 4 from mark M3 to M4: direction = 0.0, distance = 14.00
+Tack 4: speed = 19.8, direction = 0.0, distance = 14.00
+
+Leg 5 from mark M4 to M5: direction = 174.6, distance = 63.29
+Tack 5: speed = 10.8, direction = 240.0, distance = 49.56
+Tack 6: speed = 10.8, direction = 128.0, distance = 62.08
+
+Race 1 was 242.35 nm long with 6 tacks
+Estimated race duration is 17.26 hours with 2.00 hours of tack penalty
+
+Race 2 has 8 legs
+The race layout is 438.88 nm long
+
+Leg 1 from mark M0 to M1: direction = 230.7, distance = 14.21
+Tack 1: speed = 22.5, direction = 256.0, distance = 9.62
+Tack 2: speed = 22.5, direction = 194.0, distance = 6.88
+
+Leg 2 from mark M1 to M2: direction = 238.1, distance = 43.57
+Tack 3: speed = 22.5, direction = 256.0, distance = 34.36
+Tack 4: speed = 22.5, direction = 194.0, distance = 15.14
+
+Leg 3 from mark M2 to M3: direction = 339.0, distance = 50.33
+Tack 5: speed = 50.0, direction = 339.0, distance = 50.33
+
+Leg 4 from mark M3 to M4: direction = 149.7, distance = 41.68
+Tack 6: speed = 22.5, direction = 149.7, distance = 41.68
+
+Leg 5 from mark M4 to M5: direction = 121.3, distance = 65.51
+Tack 7: speed = 50.0, direction = 121.3, distance = 65.51
+
+Leg 6 from mark M5 to M6: direction = 317.5, distance = 112.54
+Tack 8: speed = 50.0, direction = 317.5, distance = 112.54
+
+Leg 7 from mark M6 to M7: direction = 136.6, distance = 75.69
+Tack 9: speed = 50.0, direction = 136.6, distance = 75.69
+
+Leg 8 from mark M7 to M8: direction = 8.1, distance = 35.36
+Tack 10: speed = 50.0, direction = 8.1, distance = 35.36
+
+Race 2 was 447.10 nm long with 10 tacks
+Estimated race duration is 15.17 hours with 3.60 hours of tack penalty
+
+Race 3 has 7 legs
+The race layout is 249.70 nm long
+
+Leg 1 from mark M0 to M1: direction = 170.8, distance = 81.05
+Tack 1: speed = 11.0, direction = 170.8, distance = 81.05
+
+Leg 2 from mark M1 to M2: direction = 355.9, distance = 14.04
+Tack 2: speed = 11.0, direction = 358.0, distance = 13.07
+Tack 3: speed = 11.0, direction = 330.0, distance = 1.09
+
+Leg 3 from mark M2 to M3: direction = 254.1, distance = 7.28
+Tack 4: speed = 11.0, direction = 254.1, distance = 7.28
+
+Leg 4 from mark M3 to M4: direction = 353.3, distance = 17.12
+Tack 5: speed = 11.0, direction = 358.0, distance = 14.42
+Tack 6: speed = 11.0, direction = 330.0, distance = 2.99
+
+Leg 5 from mark M4 to M5: direction = 87.1, distance = 40.05
+Tack 7: speed = 17.6, direction = 87.1, distance = 40.05
+
+Leg 6 from mark M5 to M6: direction = 265.6, distance = 52.15
+Tack 8: speed = 11.0, direction = 265.6, distance = 52.15
+
+Leg 7 from mark M6 to M7: direction = 234.6, distance = 38.01
+Tack 9: speed = 17.6, direction = 234.6, distance = 38.01
+
+Race 3 was 250.11 nm long with 9 tacks
+Estimated race duration is 23.68 hours with 3.20 hours of tack penalty
+
+Race 4 has 4 legs
+The race layout is 206.82 nm long
+
+Leg 1 from mark M0 to M1: direction = 327.4, distance = 42.72
+Tack 1: speed = 70.4, direction = 327.4, distance = 42.72
+
+Leg 2 from mark M1 to M2: direction = 3.4, distance = 34.06
+Tack 2: speed = 52.8, direction = 3.4, distance = 34.06
+
+Leg 3 from mark M2 to M3: direction = 152.5, distance = 56.36
+Tack 3: speed = 26.4, direction = 234.0, distance = 10.30
+Tack 4: speed = 26.4, direction = 142.0, distance = 55.77
+
+Leg 4 from mark M3 to M4: direction = 352.2, distance = 73.68
+Tack 5: speed = 52.8, direction = 352.2, distance = 73.68
+
+Race 4 was 216.53 nm long with 5 tacks
+Estimated race duration is 5.75 hours with 0.40 hours of tack penalty
+
+Race 5 has 7 legs
+The race layout is 381.41 nm long
+
+Leg 1 from mark M0 to M1: direction = 96.8, distance = 67.48
+Tack 1: speed = 34.1, direction = 96.8, distance = 67.48
+
+Leg 2 from mark M1 to M2: direction = 334.4, distance = 55.46
+Tack 2: speed = 27.9, direction = 334.4, distance = 55.46
+
+Leg 3 from mark M2 to M3: direction = 306.1, distance = 45.80
+Tack 3: speed = 27.9, direction = 306.1, distance = 45.80
+
+Leg 4 from mark M3 to M4: direction = 173.8, distance = 55.33
+Tack 4: speed = 58.9, direction = 173.8, distance = 55.33
+
+Leg 5 from mark M4 to M5: direction = 49.3, distance = 65.95
+Tack 5: speed = 34.1, direction = 49.3, distance = 65.95
+
+Leg 6 from mark M5 to M6: direction = 51.8, distance = 17.80
+Tack 6: speed = 34.1, direction = 51.8, distance = 17.80
+
+Leg 7 from mark M6 to M7: direction = 222.8, distance = 73.59
+Tack 7: speed = 27.9, direction = 222.8, distance = 73.59
+
+Race 5 was 381.41 nm long with 7 tacks
+Estimated race duration is 17.94 hours with 4.20 hours of tack penalty
+
+Race 6 has 8 legs
+The race layout is 384.12 nm long
+
+Leg 1 from mark M0 to M1: direction = 343.8, distance = 82.28
+Tack 1: speed = 22.4, direction = 343.8, distance = 82.28
+
+Leg 2 from mark M1 to M2: direction = 83.8, distance = 37.22
+Tack 2: speed = 22.4, direction = 84.0, distance = 37.19
+Tack 3: speed = 22.4, direction = 6.0, distance = 0.11
+
+Leg 3 from mark M2 to M3: direction = 216.4, distance = 23.60
+Tack 4: speed = 32.0, direction = 216.4, distance = 23.60
+
+Leg 4 from mark M3 to M4: direction = 146.6, distance = 49.09
+Tack 5: speed = 60.8, direction = 146.6, distance = 49.09
+
+Leg 5 from mark M4 to M5: direction = 297.4, distance = 30.41
+Tack 6: speed = 60.8, direction = 297.4, distance = 30.41
+
+Leg 6 from mark M5 to M6: direction = 280.4, distance = 38.64
+Tack 7: speed = 60.8, direction = 280.4, distance = 38.64
+
+Leg 7 from mark M6 to M7: direction = 150.9, distance = 51.48
+Tack 8: speed = 60.8, direction = 150.9, distance = 51.48
+
+Leg 8 from mark M7 to M8: direction = 37.0, distance = 71.40
+Tack 9: speed = 22.4, direction = 84.0, distance = 37.63
+Tack 10: speed = 22.4, direction = 6.0, distance = 53.36
+
+Race 6 was 403.80 nm long with 10 tacks
+Estimated race duration is 15.93 hours with 2.70 hours of tack penalty
+
+Race 7 has 8 legs
+The race layout is 298.40 nm long
+
+Leg 1 from mark M0 to M1: direction = 88.5, distance = 38.01
+Tack 1: speed = 36.0, direction = 88.5, distance = 38.01
+
+Leg 2 from mark M1 to M2: direction = 315.0, distance = 16.97
+Tack 2: speed = 49.5, direction = 315.0, distance = 16.97
+
+Leg 3 from mark M2 to M3: direction = 276.6, distance = 26.17
+Tack 3: speed = 85.5, direction = 276.6, distance = 26.17
+
+Leg 4 from mark M3 to M4: direction = 81.3, distance = 26.31
+Tack 4: speed = 36.0, direction = 81.3, distance = 26.31
+
+Leg 5 from mark M4 to M5: direction = 150.3, distance = 8.06
+Tack 5: speed = 36.0, direction = 193.0, distance = 3.48
+Tack 6: speed = 36.0, direction = 127.0, distance = 5.99
+
+Leg 6 from mark M5 to M6: direction = 251.2, distance = 49.65
+Tack 7: speed = 36.0, direction = 251.2, distance = 49.65
+
+Leg 7 from mark M6 to M7: direction = 352.1, distance = 72.69
+Tack 8: speed = 49.5, direction = 352.1, distance = 72.69
+
+Leg 8 from mark M7 to M8: direction = 172.4, distance = 60.53
+Tack 9: speed = 36.0, direction = 193.0, distance = 47.18
+Tack 10: speed = 36.0, direction = 127.0, distance = 23.31
+
+Race 7 was 309.77 nm long with 10 tacks
+Estimated race duration is 8.60 hours with 0.90 hours of tack penalty
+
+Race 8 has 4 legs
+The race layout is 189.37 nm long
+
+Leg 1 from mark M0 to M1: direction = 93.2, distance = 54.08
+Tack 1: speed = 35.1, direction = 93.2, distance = 54.08
+
+Leg 2 from mark M1 to M2: direction = 166.5, distance = 25.71
+Tack 2: speed = 21.6, direction = 166.5, distance = 25.71
+
+Leg 3 from mark M2 to M3: direction = 219.1, distance = 55.44
+Tack 3: speed = 21.6, direction = 265.0, distance = 20.90
+Tack 4: speed = 21.6, direction = 199.0, distance = 43.55
+
+Leg 4 from mark M3 to M4: direction = 11.7, distance = 54.13
+Tack 5: speed = 35.1, direction = 11.7, distance = 54.13
+
+Race 8 was 198.37 nm long with 5 tacks
+Estimated race duration is 10.86 hours with 2.40 hours of tack penalty
+
+Race 9 has 3 legs
+The race layout is 50.52 nm long
+
+Leg 1 from mark M0 to M1: direction = 14.0, distance = 12.37
+Tack 1: speed = 9.0, direction = 14.0, distance = 12.37
+
+Leg 2 from mark M1 to M2: direction = 277.6, distance = 15.13
+Tack 2: speed = 16.5, direction = 277.6, distance = 15.13
+
+Leg 3 from mark M2 to M3: direction = 267.5, distance = 23.02
+Tack 3: speed = 16.5, direction = 267.5, distance = 23.02
+
+Race 9 was 50.52 nm long with 3 tacks
+Estimated race duration is 7.29 hours with 1.80 hours of tack penalty
+
+Race 10 has 4 legs
+The race layout is 251.34 nm long
+
+Leg 1 from mark M0 to M1: direction = 264.4, distance = 82.39
+Tack 1: speed = 36.8, direction = 266.0, distance = 82.60
+Tack 2: speed = 36.8, direction = 170.0, distance = 2.27
+
+Leg 2 from mark M1 to M2: direction = 100.8, distance = 85.51
+Tack 3: speed = 82.8, direction = 100.8, distance = 85.51
+
+Leg 3 from mark M2 to M3: direction = 245.3, distance = 81.44
+Tack 4: speed = 36.8, direction = 266.0, distance = 79.21
+Tack 5: speed = 36.8, direction = 170.0, distance = 28.91
+
+Leg 4 from mark M3 to M4: direction = 180.0, distance = 2.00
+Tack 6: speed = 36.8, direction = 266.0, distance = 0.35
+Tack 7: speed = 36.8, direction = 170.0, distance = 2.01
+
+Race 10 was 280.86 nm long with 7 tacks
+Estimated race duration is 9.94 hours with 3.60 hours of tack penalty
+
+Race 11 has 3 legs
+The race layout is 244.53 nm long
+
+Leg 1 from mark M0 to M1: direction = 293.0, distance = 86.93
+Tack 1: speed = 28.8, direction = 293.0, distance = 86.93
+
+Leg 2 from mark M1 to M2: direction = 120.7, distance = 68.60
+Tack 2: speed = 39.6, direction = 120.7, distance = 68.60
+
+Leg 3 from mark M2 to M3: direction = 0.6, distance = 89.01
+Tack 3: speed = 28.8, direction = 0.6, distance = 89.01
+
+Race 11 was 244.53 nm long with 3 tacks
+Estimated race duration is 8.14 hours with 0.20 hours of tack penalty
+
+Race 12 has 8 legs
+The race layout is 327.69 nm long
+
+Leg 1 from mark M0 to M1: direction = 132.8, distance = 54.49
+Tack 1: speed = 41.4, direction = 169.0, distance = 32.23
+Tack 2: speed = 41.4, direction = 99.0, distance = 34.27
+
+Leg 2 from mark M1 to M2: direction = 229.4, distance = 27.66
+Tack 3: speed = 87.4, direction = 229.4, distance = 27.66
+
+Leg 3 from mark M2 to M3: direction = 241.7, distance = 14.76
+Tack 4: speed = 87.4, direction = 241.7, distance = 14.76
+
+Leg 4 from mark M3 to M4: direction = 6.8, distance = 67.48
+Tack 5: speed = 87.4, direction = 6.8, distance = 67.48
+
+Leg 5 from mark M4 to M5: direction = 275.2, distance = 11.05
+Tack 6: speed = 64.4, direction = 275.2, distance = 11.05
+
+Leg 6 from mark M5 to M6: direction = 125.3, distance = 67.42
+Tack 7: speed = 41.4, direction = 169.0, distance = 31.84
+Tack 8: speed = 41.4, direction = 99.0, distance = 49.54
+
+Leg 7 from mark M6 to M7: direction = 239.3, distance = 43.05
+Tack 9: speed = 87.4, direction = 239.3, distance = 43.05
+
+Leg 8 from mark M7 to M8: direction = 69.0, distance = 41.79
+Tack 10: speed = 41.4, direction = 69.0, distance = 41.79
+
+Race 12 was 353.65 nm long with 10 tacks
+Estimated race duration is 10.50 hours with 3.60 hours of tack penalty
+
+Race 13 has 3 legs
+The race layout is 147.58 nm long
+
+Leg 1 from mark M0 to M1: direction = 179.4, distance = 92.01
+Tack 1: speed = 29.0, direction = 179.4, distance = 92.01
+
+Leg 2 from mark M1 to M2: direction = 291.4, distance = 30.08
+Tack 2: speed = 110.2, direction = 291.4, distance = 30.08
+
+Leg 3 from mark M2 to M3: direction = 281.3, distance = 25.50
+Tack 3: speed = 110.2, direction = 281.3, distance = 25.50
+
+Race 13 was 147.58 nm long with 3 tacks
+Estimated race duration is 4.48 hours with 0.80 hours of tack penalty
+
+Race 14 has 8 legs
+The race layout is 491.42 nm long
+
+Leg 1 from mark M0 to M1: direction = 269.0, distance = 57.01
+Tack 1: speed = 16.5, direction = 269.0, distance = 57.01
+
+Leg 2 from mark M1 to M2: direction = 209.7, distance = 8.06
+Tack 2: speed = 14.3, direction = 209.7, distance = 8.06
+
+Leg 3 from mark M2 to M3: direction = 34.5, distance = 112.89
+Tack 3: speed = 6.6, direction = 84.0, distance = 101.25
+Tack 4: speed = 6.6, direction = 336.0, distance = 90.22
+
+Leg 4 from mark M3 to M4: direction = 247.3, distance = 80.23
+Tack 5: speed = 14.3, direction = 247.3, distance = 80.23
+
+Leg 5 from mark M4 to M5: direction = 160.0, distance = 23.41
+Tack 6: speed = 14.3, direction = 160.0, distance = 23.41
+
+Leg 6 from mark M5 to M6: direction = 154.0, distance = 45.62
+Tack 7: speed = 16.5, direction = 154.0, distance = 45.62
+
+Leg 7 from mark M6 to M7: direction = 38.1, distance = 94.02
+Tack 8: speed = 6.6, direction = 84.0, distance = 87.36
+Tack 9: speed = 6.6, direction = 336.0, distance = 71.01
+
+Leg 8 from mark M7 to M8: direction = 212.8, distance = 70.18
+Tack 10: speed = 14.3, direction = 212.8, distance = 70.18
+
+Race 14 was 634.34 nm long with 10 tacks
+Estimated race duration is 84.94 hours with 9.00 hours of tack penalty
+
+Race 15 has 8 legs
+The race layout is 379.98 nm long
+
+Leg 1 from mark M0 to M1: direction = 188.1, distance = 49.50
+Tack 1: speed = 102.6, direction = 188.1, distance = 49.50
+
+Leg 2 from mark M1 to M2: direction = 357.1, distance = 40.05
+Tack 2: speed = 102.6, direction = 357.1, distance = 40.05
+
+Leg 3 from mark M2 to M3: direction = 268.9, distance = 54.01
+Tack 3: speed = 43.2, direction = 318.0, distance = 33.97
+Tack 4: speed = 43.2, direction = 230.0, distance = 40.82
+
+Leg 4 from mark M3 to M4: direction = 170.5, distance = 36.50
+Tack 5: speed = 102.6, direction = 170.5, distance = 36.50
+
+Leg 5 from mark M4 to M5: direction = 137.9, distance = 70.09
+Tack 6: speed = 64.8, direction = 137.9, distance = 70.09
+
+Leg 6 from mark M5 to M6: direction = 338.0, distance = 50.70
+Tack 7: speed = 43.2, direction = 338.0, distance = 50.70
+
+Leg 7 from mark M6 to M7: direction = 279.0, distance = 19.24
+Tack 8: speed = 43.2, direction = 318.0, distance = 14.52
+Tack 9: speed = 43.2, direction = 230.0, distance = 12.12
+
+Leg 8 from mark M7 to M8: direction = 104.5, distance = 59.91
+Tack 10: speed = 64.8, direction = 104.5, distance = 59.91
+
+Race 15 was 408.17 nm long with 10 tacks
+Estimated race duration is 12.26 hours with 4.50 hours of tack penalty
+
+Race 16 has 6 legs
+The race layout is 323.25 nm long
+
+Leg 1 from mark M0 to M1: direction = 298.9, distance = 43.42
+Tack 1: speed = 55.0, direction = 298.9, distance = 43.42
+
+Leg 2 from mark M1 to M2: direction = 124.3, distance = 53.25
+Tack 2: speed = 99.0, direction = 124.3, distance = 53.25
+
+Leg 3 from mark M2 to M3: direction = 19.1, distance = 76.22
+Tack 3: speed = 99.0, direction = 19.1, distance = 76.22
+
+Leg 4 from mark M3 to M4: direction = 213.7, distance = 14.42
+Tack 4: speed = 55.0, direction = 213.7, distance = 14.42
+
+Leg 5 from mark M4 to M5: direction = 270.0, distance = 63.00
+Tack 5: speed = 55.0, direction = 276.0, distance = 57.13
+Tack 6: speed = 55.0, direction = 226.0, distance = 8.60
+
+Leg 6 from mark M5 to M6: direction = 123.3, distance = 72.95
+Tack 7: speed = 99.0, direction = 123.3, distance = 72.95
+
+Race 16 was 325.98 nm long with 7 tacks
+Estimated race duration is 8.49 hours with 4.20 hours of tack penalty
+
+Race 17 has 5 legs
+The race layout is 128.48 nm long
+
+Leg 1 from mark M0 to M1: direction = 356.2, distance = 15.03
+Tack 1: speed = 49.4, direction = 356.2, distance = 15.03
+
+Leg 2 from mark M1 to M2: direction = 52.1, distance = 11.40
+Tack 2: speed = 31.2, direction = 52.1, distance = 11.40
+
+Leg 3 from mark M2 to M3: direction = 83.6, distance = 62.39
+Tack 3: speed = 31.2, direction = 83.6, distance = 62.39
+
+Leg 4 from mark M3 to M4: direction = 186.3, distance = 9.06
+Tack 4: speed = 18.2, direction = 186.3, distance = 9.06
+
+Leg 5 from mark M4 to M5: direction = 11.3, distance = 30.59
+Tack 5: speed = 49.4, direction = 11.3, distance = 30.59
+
+Race 17 was 128.48 nm long with 5 tacks
+Estimated race duration is 4.39 hours with 0.40 hours of tack penalty
+
+Race 18 has 5 legs
+The race layout is 178.24 nm long
+
+Leg 1 from mark M0 to M1: direction = 40.6, distance = 55.32
+Tack 1: speed = 46.8, direction = 40.6, distance = 55.32
+
+Leg 2 from mark M1 to M2: direction = 223.7, distance = 31.83
+Tack 2: speed = 19.5, direction = 262.0, distance = 14.50
+Tack 3: speed = 19.5, direction = 200.0, distance = 22.33
+
+Leg 3 from mark M2 to M3: direction = 299.4, distance = 18.36
+Tack 4: speed = 19.5, direction = 299.4, distance = 18.36
+
+Leg 4 from mark M3 to M4: direction = 158.6, distance = 24.70
+Tack 5: speed = 19.5, direction = 158.6, distance = 24.70
+
+Leg 5 from mark M4 to M5: direction = 87.6, distance = 48.04
+Tack 6: speed = 46.8, direction = 87.6, distance = 48.04
+
+Race 18 was 183.25 nm long with 6 tacks
+Estimated race duration is 13.31 hours with 5.00 hours of tack penalty
+
+Race 19 has 7 legs
+The race layout is 335.77 nm long
+
+Leg 1 from mark M0 to M1: direction = 27.9, distance = 57.71
+Tack 1: speed = 21.7, direction = 27.9, distance = 57.71
+
+Leg 2 from mark M1 to M2: direction = 196.2, distance = 82.28
+Tack 2: speed = 46.5, direction = 196.2, distance = 82.28
+
+Leg 3 from mark M2 to M3: direction = 26.6, distance = 33.54
+Tack 3: speed = 21.7, direction = 26.6, distance = 33.54
+
+Leg 4 from mark M3 to M4: direction = 1.3, distance = 45.01
+Tack 4: speed = 46.5, direction = 1.3, distance = 45.01
+
+Leg 5 from mark M4 to M5: direction = 280.3, distance = 44.72
+Tack 5: speed = 43.4, direction = 280.3, distance = 44.72
+
+Leg 6 from mark M5 to M6: direction = 147.8, distance = 31.91
+Tack 6: speed = 46.5, direction = 147.8, distance = 31.91
+
+Leg 7 from mark M6 to M7: direction = 189.9, distance = 40.61
+Tack 7: speed = 46.5, direction = 189.9, distance = 40.61
+
+Race 19 was 335.77 nm long with 7 tacks
+Estimated race duration is 15.13 hours with 4.80 hours of tack penalty
+
+Race 20 has 7 legs
+The race layout is 266.19 nm long
+
+Leg 1 from mark M0 to M1: direction = 61.7, distance = 14.76
+Tack 1: speed = 75.6, direction = 61.7, distance = 14.76
+
+Leg 2 from mark M1 to M2: direction = 151.8, distance = 78.29
+Tack 2: speed = 29.4, direction = 151.8, distance = 78.29
+
+Leg 3 from mark M2 to M3: direction = 333.4, distance = 49.19
+Tack 3: speed = 75.6, direction = 333.4, distance = 49.19
+
+Leg 4 from mark M3 to M4: direction = 146.3, distance = 10.82
+Tack 4: speed = 29.4, direction = 146.3, distance = 10.82
+
+Leg 5 from mark M4 to M5: direction = 20.6, distance = 34.18
+Tack 5: speed = 42.0, direction = 20.6, distance = 34.18
+
+Leg 6 from mark M5 to M6: direction = 277.4, distance = 46.39
+Tack 6: speed = 29.4, direction = 277.4, distance = 46.39
+
+Leg 7 from mark M6 to M7: direction = 132.5, distance = 32.56
+Tack 7: speed = 75.6, direction = 132.5, distance = 32.56
+
+Race 20 was 266.19 nm long with 7 tacks
+Estimated race duration is 13.00 hours with 5.40 hours of tack penalty
+
+Race 21 has 5 legs
+The race layout is 232.89 nm long
+
+Leg 1 from mark M0 to M1: direction = 183.8, distance = 30.07
+Tack 1: speed = 10.5, direction = 195.0, distance = 27.82
+Tack 2: speed = 10.5, direction = 121.0, distance = 6.07
+
+Leg 2 from mark M1 to M2: direction = 307.3, distance = 47.80
+Tack 3: speed = 29.4, direction = 307.3, distance = 47.80
+
+Leg 3 from mark M2 to M3: direction = 53.6, distance = 47.20
+Tack 4: speed = 37.8, direction = 53.6, distance = 47.20
+
+Leg 4 from mark M3 to M4: direction = 236.8, distance = 62.13
+Tack 5: speed = 37.8, direction = 236.8, distance = 62.13
+
+Leg 5 from mark M4 to M5: direction = 113.2, distance = 45.69
+Tack 6: speed = 10.5, direction = 113.2, distance = 45.69
+
+Race 21 was 236.72 nm long with 6 tacks
+Estimated race duration is 13.90 hours with 1.50 hours of tack penalty
+
+Race 22 has 8 legs
+The race layout is 389.40 nm long
+
+Leg 1 from mark M0 to M1: direction = 108.4, distance = 3.16
+Tack 1: speed = 31.2, direction = 140.0, distance = 2.09
+Tack 2: speed = 31.2, direction = 70.0, distance = 1.76
+
+Leg 2 from mark M1 to M2: direction = 192.5, distance = 27.66
+Tack 3: speed = 83.2, direction = 192.5, distance = 27.66
+
+Leg 3 from mark M2 to M3: direction = 204.7, distance = 69.35
+Tack 4: speed = 83.2, direction = 204.7, distance = 69.35
+
+Leg 4 from mark M3 to M4: direction = 259.7, distance = 33.54
+Tack 5: speed = 62.4, direction = 259.7, distance = 33.54
+
+Leg 5 from mark M4 to M5: direction = 28.0, distance = 108.71
+Tack 6: speed = 31.2, direction = 28.0, distance = 108.71
+
+Leg 6 from mark M5 to M6: direction = 236.3, distance = 25.24
+Tack 7: speed = 83.2, direction = 236.3, distance = 25.24
+
+Leg 7 from mark M6 to M7: direction = 204.5, distance = 50.57
+Tack 8: speed = 83.2, direction = 204.5, distance = 50.57
+
+Leg 8 from mark M7 to M8: direction = 114.0, distance = 71.18
+Tack 9: speed = 31.2, direction = 140.0, distance = 52.66
+Tack 10: speed = 31.2, direction = 70.0, distance = 33.15
+
+Race 22 was 404.73 nm long with 10 tacks
+Estimated race duration is 15.97 hours with 6.30 hours of tack penalty
+
+Race 23 has 7 legs
+The race layout is 328.97 nm long
+
+Leg 1 from mark M0 to M1: direction = 146.6, distance = 56.30
+Tack 1: speed = 68.4, direction = 146.6, distance = 56.30
+
+Leg 2 from mark M1 to M2: direction = 255.6, distance = 84.65
+Tack 2: speed = 21.6, direction = 329.0, distance = 60.34
+Tack 3: speed = 21.6, direction = 215.0, distance = 88.78
+
+Leg 3 from mark M2 to M3: direction = 33.7, distance = 68.51
+Tack 4: speed = 68.4, direction = 33.7, distance = 68.51
+
+Leg 4 from mark M3 to M4: direction = 115.5, distance = 23.26
+Tack 5: speed = 50.4, direction = 115.5, distance = 23.26
+
+Leg 5 from mark M4 to M5: direction = 247.8, distance = 47.54
+Tack 6: speed = 21.6, direction = 329.0, distance = 28.15
+Tack 7: speed = 21.6, direction = 215.0, distance = 51.43
+
+Leg 6 from mark M5 to M6: direction = 227.9, distance = 28.32
+Tack 8: speed = 21.6, direction = 329.0, distance = 6.90
+Tack 9: speed = 21.6, direction = 215.0, distance = 30.42
+
+Leg 7 from mark M6 to M7: direction = 11.3, distance = 20.40
+Tack 10: speed = 68.4, direction = 11.3, distance = 20.40
+
+Race 23 was 434.49 nm long with 10 tacks
+Estimated race duration is 16.90 hours with 1.80 hours of tack penalty
+
+Race 24 has 6 legs
+The race layout is 226.91 nm long
+
+Leg 1 from mark M0 to M1: direction = 196.7, distance = 52.20
+Tack 1: speed = 17.5, direction = 233.0, distance = 44.23
+Tack 2: speed = 17.5, direction = 139.0, distance = 30.98
+
+Leg 2 from mark M1 to M2: direction = 140.4, distance = 29.83
+Tack 3: speed = 17.5, direction = 233.0, distance = 0.75
+Tack 4: speed = 17.5, direction = 139.0, distance = 29.88
+
+Leg 3 from mark M2 to M3: direction = 320.9, distance = 55.44
+Tack 5: speed = 45.0, direction = 320.9, distance = 55.44
+
+Leg 4 from mark M3 to M4: direction = 166.0, distance = 12.37
+Tack 6: speed = 17.5, direction = 233.0, distance = 5.62
+Tack 7: speed = 17.5, direction = 139.0, distance = 11.42
+
+Leg 5 from mark M4 to M5: direction = 295.6, distance = 27.73
+Tack 8: speed = 17.5, direction = 295.6, distance = 27.73
+
+Leg 6 from mark M5 to M6: direction = 17.7, distance = 49.34
+Tack 9: speed = 30.0, direction = 17.7, distance = 49.34
+
+Race 24 was 255.39 nm long with 9 tacks
+Estimated race duration is 20.48 hours with 8.00 hours of tack penalty
+
+Race 25 has 8 legs
+The race layout is 340.23 nm long
+
+Leg 1 from mark M0 to M1: direction = 135.0, distance = 2.83
+Tack 1: speed = 49.0, direction = 135.0, distance = 2.83
+
+Leg 2 from mark M1 to M2: direction = 333.4, distance = 58.14
+Tack 2: speed = 31.5, direction = 333.4, distance = 58.14
+
+Leg 3 from mark M2 to M3: direction = 232.4, distance = 32.80
+Tack 3: speed = 66.5, direction = 232.4, distance = 32.80
+
+Leg 4 from mark M3 to M4: direction = 196.4, distance = 63.60
+Tack 4: speed = 66.5, direction = 196.4, distance = 63.60
+
+Leg 5 from mark M4 to M5: direction = 14.5, distance = 59.91
+Tack 5: speed = 31.5, direction = 14.5, distance = 59.91
+
+Leg 6 from mark M5 to M6: direction = 12.1, distance = 14.32
+Tack 6: speed = 31.5, direction = 12.1, distance = 14.32
+
+Leg 7 from mark M6 to M7: direction = 241.6, distance = 42.06
+Tack 7: speed = 66.5, direction = 241.6, distance = 42.06
+
+Leg 8 from mark M7 to M8: direction = 147.3, distance = 66.57
+Tack 8: speed = 49.0, direction = 147.3, distance = 66.57
+
+Race 25 was 340.23 nm long with 8 tacks
+Estimated race duration is 10.40 hours with 2.10 hours of tack penalty
+
+Race 26 has 7 legs
+The race layout is 310.10 nm long
+
+Leg 1 from mark M0 to M1: direction = 310.1, distance = 24.84
+Tack 1: speed = 52.2, direction = 310.1, distance = 24.84
+
+Leg 2 from mark M1 to M2: direction = 40.2, distance = 58.90
+Tack 2: speed = 110.2, direction = 40.2, distance = 58.90
+
+Leg 3 from mark M2 to M3: direction = 214.7, distance = 31.62
+Tack 3: speed = 52.2, direction = 245.0, distance = 27.30
+Tack 4: speed = 52.2, direction = 155.0, distance = 15.96
+
+Leg 4 from mark M3 to M4: direction = 19.2, distance = 24.35
+Tack 5: speed = 81.2, direction = 19.2, distance = 24.35
+
+Leg 5 from mark M4 to M5: direction = 159.4, distance = 68.35
+Tack 6: speed = 52.2, direction = 245.0, distance = 5.30
+Tack 7: speed = 52.2, direction = 155.0, distance = 68.15
+
+Leg 6 from mark M5 to M6: direction = 325.4, distance = 89.87
+Tack 8: speed = 110.2, direction = 325.4, distance = 89.87
+
+Leg 7 from mark M6 to M7: direction = 80.5, distance = 12.17
+Tack 9: speed = 110.2, direction = 80.5, distance = 12.17
+
+Race 26 was 326.83 nm long with 9 tacks
+Estimated race duration is 12.57 hours with 7.20 hours of tack penalty
+
+Race 27 has 2 legs
+The race layout is 116.28 nm long
+
+Leg 1 from mark M0 to M1: direction = 115.8, distance = 34.44
+Tack 1: speed = 93.5, direction = 115.8, distance = 34.44
+
+Leg 2 from mark M1 to M2: direction = 215.0, distance = 81.84
+Tack 2: speed = 44.0, direction = 235.0, distance = 75.95
+Tack 3: speed = 44.0, direction = 147.0, distance = 27.94
+
+Race 27 was 138.34 nm long with 3 tacks
+Estimated race duration is 3.13 hours with 0.40 hours of tack penalty
+
+Race 28 has 3 legs
+The race layout is 168.40 nm long
+
+Leg 1 from mark M0 to M1: direction = 194.4, distance = 68.15
+Tack 1: speed = 33.6, direction = 194.4, distance = 68.15
+
+Leg 2 from mark M1 to M2: direction = 18.1, distance = 61.03
+Tack 2: speed = 84.0, direction = 18.1, distance = 61.03
+
+Leg 3 from mark M2 to M3: direction = 199.4, distance = 39.22
+Tack 3: speed = 33.6, direction = 199.4, distance = 39.22
+
+Race 28 was 168.40 nm long with 3 tacks
+Estimated race duration is 4.32 hours with 0.40 hours of tack penalty
+
+Race 29 has 5 legs
+The race layout is 281.24 nm long
+
+Leg 1 from mark M0 to M1: direction = 56.7, distance = 87.37
+Tack 1: speed = 10.5, direction = 56.7, distance = 87.37
+
+Leg 2 from mark M1 to M2: direction = 272.5, distance = 45.04
+Tack 2: speed = 35.7, direction = 272.5, distance = 45.04
+
+Leg 3 from mark M2 to M3: direction = 91.6, distance = 36.01
+Tack 3: speed = 35.7, direction = 91.6, distance = 36.01
+
+Leg 4 from mark M3 to M4: direction = 175.0, distance = 68.26
+Tack 4: speed = 29.4, direction = 175.0, distance = 68.26
+
+Leg 5 from mark M4 to M5: direction = 9.0, distance = 44.55
+Tack 5: speed = 10.5, direction = 31.0, distance = 29.22
+Tack 6: speed = 10.5, direction = 337.0, distance = 20.59
+
+Race 29 was 286.50 nm long with 6 tacks
+Estimated race duration is 23.06 hours with 4.50 hours of tack penalty
+
+Race 30 has 4 legs
+The race layout is 181.12 nm long
+
+Leg 1 from mark M0 to M1: direction = 349.3, distance = 59.03
+Tack 1: speed = 7.0, direction = 349.3, distance = 59.03
+
+Leg 2 from mark M1 to M2: direction = 170.7, distance = 55.73
+Tack 2: speed = 18.2, direction = 170.7, distance = 55.73
+
+Leg 3 from mark M2 to M3: direction = 10.5, distance = 27.46
+Tack 3: speed = 26.6, direction = 10.5, distance = 27.46
+
+Leg 4 from mark M3 to M4: direction = 288.0, distance = 38.90
+Tack 4: speed = 7.0, direction = 322.0, distance = 18.63
+Tack 5: speed = 7.0, direction = 264.0, distance = 25.67
+
+Race 30 was 186.53 nm long with 5 tacks
+Estimated race duration is 20.36 hours with 1.20 hours of tack penalty
+
+Race 31 has 2 legs
+The race layout is 39.30 nm long
+
+Leg 1 from mark M0 to M1: direction = 7.1, distance = 8.06
+Tack 1: speed = 21.5, direction = 25.0, distance = 8.11
+Tack 2: speed = 21.5, direction = 285.0, distance = 2.51
+
+Leg 2 from mark M1 to M2: direction = 219.8, distance = 31.24
+Tack 3: speed = 81.7, direction = 219.8, distance = 31.24
+
+Race 31 was 41.86 nm long with 3 tacks
+Estimated race duration is 2.28 hours with 1.40 hours of tack penalty
+
+Race 32 has 3 legs
+The race layout is 73.09 nm long
+
+Leg 1 from mark M0 to M1: direction = 144.9, distance = 45.22
+Tack 1: speed = 13.0, direction = 144.9, distance = 45.22
+
+Leg 2 from mark M1 to M2: direction = 67.6, distance = 18.38
+Tack 2: speed = 13.0, direction = 137.0, distance = 10.76
+Tack 3: speed = 13.0, direction = 33.0, distance = 17.73
+
+Leg 3 from mark M2 to M3: direction = 251.6, distance = 9.49
+Tack 4: speed = 26.0, direction = 251.6, distance = 9.49
+
+Race 32 was 83.21 nm long with 4 tacks
+Estimated race duration is 7.24 hours with 0.90 hours of tack penalty
+
+Race 33 has 6 legs
+The race layout is 278.90 nm long
+
+Leg 1 from mark M0 to M1: direction = 357.4, distance = 22.02
+Tack 1: speed = 34.0, direction = 357.4, distance = 22.02
+
+Leg 2 from mark M1 to M2: direction = 267.9, distance = 55.04
+Tack 2: speed = 13.6, direction = 267.9, distance = 55.04
+
+Leg 3 from mark M2 to M3: direction = 90.0, distance = 41.00
+Tack 3: speed = 34.0, direction = 90.0, distance = 41.00
+
+Leg 4 from mark M3 to M4: direction = 277.9, distance = 36.35
+Tack 4: speed = 13.6, direction = 277.9, distance = 36.35
+
+Leg 5 from mark M4 to M5: direction = 149.5, distance = 78.89
+Tack 5: speed = 13.6, direction = 149.5, distance = 78.89
+
+Leg 6 from mark M5 to M6: direction = 52.1, distance = 45.61
+Tack 6: speed = 22.1, direction = 52.1, distance = 45.61
+
+Race 33 was 278.90 nm long with 6 tacks
+Estimated race duration is 18.84 hours with 2.00 hours of tack penalty
+
+Race 34 has 6 legs
+The race layout is 329.50 nm long
+
+Leg 1 from mark M0 to M1: direction = 126.0, distance = 90.21
+Tack 1: speed = 78.4, direction = 126.0, distance = 90.21
+
+Leg 2 from mark M1 to M2: direction = 272.2, distance = 26.02
+Tack 2: speed = 39.2, direction = 272.2, distance = 26.02
+
+Leg 3 from mark M2 to M3: direction = 343.7, distance = 67.72
+Tack 3: speed = 39.2, direction = 26.0, distance = 45.30
+Tack 4: speed = 39.2, direction = 302.0, distance = 45.82
+
+Leg 4 from mark M3 to M4: direction = 181.6, distance = 35.01
+Tack 5: speed = 78.4, direction = 181.6, distance = 35.01
+
+Leg 5 from mark M4 to M5: direction = 288.4, distance = 28.46
+Tack 6: speed = 39.2, direction = 288.4, distance = 28.46
+
+Leg 6 from mark M5 to M6: direction = 112.2, distance = 82.08
+Tack 7: speed = 78.4, direction = 112.2, distance = 82.08
+
+Race 34 was 352.91 nm long with 7 tacks
+Estimated race duration is 9.06 hours with 1.80 hours of tack penalty
+
+Race 35 has 3 legs
+The race layout is 204.21 nm long
+
+Leg 1 from mark M0 to M1: direction = 302.3, distance = 115.97
+Tack 1: speed = 17.1, direction = 29.0, distance = 27.13
+Tack 2: speed = 17.1, direction = 289.0, distance = 117.56
+
+Leg 2 from mark M1 to M2: direction = 142.0, distance = 58.41
+Tack 3: speed = 30.4, direction = 142.0, distance = 58.41
+
+Leg 3 from mark M2 to M3: direction = 309.6, distance = 29.83
+Tack 4: speed = 17.1, direction = 29.0, distance = 10.64
+Tack 5: speed = 17.1, direction = 289.0, distance = 29.78
+
+Race 35 was 243.52 nm long with 5 tacks
+Estimated race duration is 16.75 hours with 4.00 hours of tack penalty
+
+Race 36 has 7 legs
+The race layout is 396.34 nm long
+
+Leg 1 from mark M0 to M1: direction = 12.3, distance = 47.07
+Tack 1: speed = 22.4, direction = 62.0, distance = 30.43
+Tack 2: speed = 22.4, direction = 332.0, distance = 35.92
+
+Leg 2 from mark M1 to M2: direction = 142.7, distance = 26.40
+Tack 3: speed = 50.4, direction = 142.7, distance = 26.40
+
+Leg 3 from mark M2 to M3: direction = 115.1, distance = 51.89
+Tack 4: speed = 50.4, direction = 115.1, distance = 51.89
+
+Leg 4 from mark M3 to M4: direction = 324.1, distance = 85.21
+Tack 5: speed = 22.4, direction = 324.1, distance = 85.21
+
+Leg 5 from mark M4 to M5: direction = 97.1, distance = 48.37
+Tack 6: speed = 22.4, direction = 97.1, distance = 48.37
+
+Leg 6 from mark M5 to M6: direction = 224.0, distance = 79.21
+Tack 7: speed = 50.4, direction = 224.0, distance = 79.21
+
+Leg 7 from mark M6 to M7: direction = 335.6, distance = 58.18
+Tack 8: speed = 22.4, direction = 62.0, distance = 3.69
+Tack 9: speed = 22.4, direction = 332.0, distance = 58.06
+
+Race 36 was 419.19 nm long with 9 tacks
+Estimated race duration is 17.21 hours with 2.40 hours of tack penalty
+
+Race 37 has 7 legs
+The race layout is 444.20 nm long
+
+Leg 1 from mark M0 to M1: direction = 338.7, distance = 44.01
+Tack 1: speed = 54.0, direction = 338.7, distance = 44.01
+
+Leg 2 from mark M1 to M2: direction = 191.2, distance = 87.66
+Tack 2: speed = 54.0, direction = 191.2, distance = 87.66
+
+Leg 3 from mark M2 to M3: direction = 37.4, distance = 69.20
+Tack 3: speed = 18.9, direction = 37.4, distance = 69.20
+
+Leg 4 from mark M3 to M4: direction = 230.0, distance = 48.27
+Tack 4: speed = 54.0, direction = 230.0, distance = 48.27
+
+Leg 5 from mark M4 to M5: direction = 308.3, distance = 48.41
+Tack 5: speed = 54.0, direction = 308.3, distance = 48.41
+
+Leg 6 from mark M5 to M6: direction = 94.0, distance = 72.17
+Tack 6: speed = 18.9, direction = 140.0, distance = 51.92
+Tack 7: speed = 18.9, direction = 48.0, distance = 51.97
+
+Leg 7 from mark M6 to M7: direction = 255.2, distance = 74.46
+Tack 8: speed = 54.0, direction = 255.2, distance = 74.46
+
+Race 37 was 475.93 nm long with 8 tacks
+Estimated race duration is 18.97 hours with 4.20 hours of tack penalty
+
+Race 38 has 8 legs
+The race layout is 403.49 nm long
+
+Leg 1 from mark M0 to M1: direction = 268.0, distance = 28.02
+Tack 1: speed = 9.6, direction = 268.0, distance = 28.02
+
+Leg 2 from mark M1 to M2: direction = 241.2, distance = 22.83
+Tack 2: speed = 9.6, direction = 241.2, distance = 22.83
+
+Leg 3 from mark M2 to M3: direction = 153.4, distance = 38.01
+Tack 3: speed = 24.0, direction = 153.4, distance = 38.01
+
+Leg 4 from mark M3 to M4: direction = 32.4, distance = 48.55
+Tack 4: speed = 9.6, direction = 32.4, distance = 48.55
+
+Leg 5 from mark M4 to M5: direction = 215.4, distance = 76.03
+Tack 5: speed = 24.0, direction = 215.4, distance = 76.03
+
+Leg 6 from mark M5 to M6: direction = 117.0, distance = 57.25
+Tack 6: speed = 24.0, direction = 117.0, distance = 57.25
+
+Leg 7 from mark M6 to M7: direction = 304.5, distance = 97.08
+Tack 7: speed = 9.6, direction = 28.0, distance = 4.26
+Tack 8: speed = 9.6, direction = 302.0, distance = 96.69
+
+Leg 8 from mark M7 to M8: direction = 17.9, distance = 35.74
+Tack 9: speed = 9.6, direction = 28.0, distance = 34.75
+Tack 10: speed = 9.6, direction = 302.0, distance = 6.26
+
+Race 38 was 412.64 nm long with 10 tacks
+Estimated race duration is 34.98 hours with 2.70 hours of tack penalty
+
+Race 39 has 5 legs
+The race layout is 246.15 nm long
+
+Leg 1 from mark M0 to M1: direction = 315.0, distance = 56.57
+Tack 1: speed = 68.8, direction = 315.0, distance = 56.57
+
+Leg 2 from mark M1 to M2: direction = 148.3, distance = 55.23
+Tack 2: speed = 34.4, direction = 148.3, distance = 55.23
+
+Leg 3 from mark M2 to M3: direction = 258.7, distance = 35.69
+Tack 3: speed = 64.5, direction = 258.7, distance = 35.69
+
+Leg 4 from mark M3 to M4: direction = 80.1, distance = 63.95
+Tack 4: speed = 34.4, direction = 96.0, distance = 13.36
+Tack 5: speed = 34.4, direction = 76.0, distance = 51.24
+
+Leg 5 from mark M4 to M5: direction = 228.5, distance = 34.71
+Tack 6: speed = 68.8, direction = 228.5, distance = 34.71
+
+Race 39 was 246.80 nm long with 6 tacks
+Estimated race duration is 8.36 hours with 2.50 hours of tack penalty
+
+Race 40 has 7 legs
+The race layout is 300.60 nm long
+
+Leg 1 from mark M0 to M1: direction = 325.3, distance = 31.62
+Tack 1: speed = 47.0, direction = 325.3, distance = 31.62
+
+Leg 2 from mark M1 to M2: direction = 7.6, distance = 45.40
+Tack 2: speed = 47.0, direction = 7.6, distance = 45.40
+
+Leg 3 from mark M2 to M3: direction = 167.5, distance = 92.20
+Tack 3: speed = 32.9, direction = 186.0, distance = 81.19
+Tack 4: speed = 32.9, direction = 108.0, distance = 29.95
+
+Leg 4 from mark M3 to M4: direction = 329.0, distance = 46.65
+Tack 5: speed = 47.0, direction = 329.0, distance = 46.65
+
+Leg 5 from mark M4 to M5: direction = 104.0, distance = 16.49
+Tack 6: speed = 32.9, direction = 104.0, distance = 16.49
+
+Leg 6 from mark M5 to M6: direction = 34.2, distance = 33.84
+Tack 7: speed = 75.2, direction = 34.2, distance = 33.84
+
+Leg 7 from mark M6 to M7: direction = 324.5, distance = 34.41
+Tack 8: speed = 47.0, direction = 324.5, distance = 34.41
+
+Race 40 was 319.55 nm long with 8 tacks
+Estimated race duration is 9.89 hours with 1.40 hours of tack penalty
+
+Race 41 has 4 legs
+The race layout is 200.96 nm long
+
+Leg 1 from mark M0 to M1: direction = 50.8, distance = 91.68
+Tack 1: speed = 59.0, direction = 50.8, distance = 91.68
+
+Leg 2 from mark M1 to M2: direction = 246.0, distance = 39.40
+Tack 2: speed = 47.2, direction = 246.0, distance = 39.40
+
+Leg 3 from mark M2 to M3: direction = 96.3, distance = 9.06
+Tack 3: speed = 94.4, direction = 96.3, distance = 9.06
+
+Leg 4 from mark M3 to M4: direction = 223.7, distance = 60.83
+Tack 4: speed = 47.2, direction = 223.7, distance = 60.83
+
+Race 41 was 200.96 nm long with 4 tacks
+Estimated race duration is 6.17 hours with 1.80 hours of tack penalty
+
+Race 42 has 8 legs
+The race layout is 371.05 nm long
+
+Leg 1 from mark M0 to M1: direction = 40.7, distance = 56.73
+Tack 1: speed = 76.0, direction = 40.7, distance = 56.73
+
+Leg 2 from mark M1 to M2: direction = 352.2, distance = 51.48
+Tack 2: speed = 76.0, direction = 352.2, distance = 51.48
+
+Leg 3 from mark M2 to M3: direction = 175.1, distance = 94.34
+Tack 3: speed = 38.0, direction = 175.1, distance = 94.34
+
+Leg 4 from mark M3 to M4: direction = 38.4, distance = 30.61
+Tack 4: speed = 76.0, direction = 38.4, distance = 30.61
+
+Leg 5 from mark M4 to M5: direction = 48.8, distance = 10.63
+Tack 5: speed = 76.0, direction = 48.8, distance = 10.63
+
+Leg 6 from mark M5 to M6: direction = 316.6, distance = 75.69
+Tack 6: speed = 38.0, direction = 316.6, distance = 75.69
+
+Leg 7 from mark M6 to M7: direction = 143.1, distance = 25.00
+Tack 7: speed = 76.0, direction = 143.1, distance = 25.00
+
+Leg 8 from mark M7 to M8: direction = 289.8, distance = 26.57
+Tack 8: speed = 38.0, direction = 289.8, distance = 26.57
+
+Race 42 was 371.05 nm long with 8 tacks
+Estimated race duration is 10.97 hours with 3.50 hours of tack penalty
+
+Race 43 has 4 legs
+The race layout is 117.85 nm long
+
+Leg 1 from mark M0 to M1: direction = 274.9, distance = 47.17
+Tack 1: speed = 30.6, direction = 274.9, distance = 47.17
+
+Leg 2 from mark M1 to M2: direction = 306.9, distance = 5.00
+Tack 2: speed = 51.0, direction = 306.9, distance = 5.00
+
+Leg 3 from mark M2 to M3: direction = 86.6, distance = 34.06
+Tack 3: speed = 47.6, direction = 86.6, distance = 34.06
+
+Leg 4 from mark M3 to M4: direction = 251.6, distance = 31.62
+Tack 4: speed = 30.6, direction = 251.6, distance = 31.62
+
+Race 43 was 117.85 nm long with 4 tacks
+Estimated race duration is 4.59 hours with 0.90 hours of tack penalty
+
+Race 44 has 4 legs
+The race layout is 257.04 nm long
+
+Leg 1 from mark M0 to M1: direction = 235.9, distance = 78.49
+Tack 1: speed = 60.5, direction = 235.9, distance = 78.49
+
+Leg 2 from mark M1 to M2: direction = 96.4, distance = 80.50
+Tack 2: speed = 38.5, direction = 96.4, distance = 80.50
+
+Leg 3 from mark M2 to M3: direction = 334.1, distance = 73.35
+Tack 3: speed = 38.5, direction = 334.1, distance = 73.35
+
+Leg 4 from mark M3 to M4: direction = 121.8, distance = 24.70
+Tack 4: speed = 38.5, direction = 121.8, distance = 24.70
+
+Race 44 was 257.04 nm long with 4 tacks
+Estimated race duration is 6.74 hours with 0.60 hours of tack penalty
+
+Race 45 has 5 legs
+The race layout is 250.19 nm long
+
+Leg 1 from mark M0 to M1: direction = 273.1, distance = 73.11
+Tack 1: speed = 74.0, direction = 273.1, distance = 73.11
+
+Leg 2 from mark M1 to M2: direction = 20.3, distance = 69.29
+Tack 2: speed = 74.0, direction = 20.3, distance = 69.29
+
+Leg 3 from mark M2 to M3: direction = 188.7, distance = 39.46
+Tack 3: speed = 33.3, direction = 188.7, distance = 39.46
+
+Leg 4 from mark M3 to M4: direction = 131.2, distance = 10.63
+Tack 4: speed = 33.3, direction = 187.0, distance = 8.83
+Tack 5: speed = 33.3, direction = 79.0, distance = 9.25
+
+Leg 5 from mark M4 to M5: direction = 334.3, distance = 57.70
+Tack 6: speed = 74.0, direction = 334.3, distance = 57.70
+
+Race 45 was 257.63 nm long with 6 tacks
+Estimated race duration is 8.93 hours with 4.50 hours of tack penalty
+
+Race 46 has 2 legs
+The race layout is 110.51 nm long
+
+Leg 1 from mark M0 to M1: direction = 162.5, distance = 93.30
+Tack 1: speed = 16.5, direction = 162.5, distance = 93.30
+
+Leg 2 from mark M1 to M2: direction = 54.5, distance = 17.20
+Tack 2: speed = 16.5, direction = 54.5, distance = 17.20
+
+Race 46 was 110.51 nm long with 2 tacks
+Estimated race duration is 7.50 hours with 0.80 hours of tack penalty
+
+Race 47 has 3 legs
+The race layout is 169.03 nm long
+
+Leg 1 from mark M0 to M1: direction = 172.1, distance = 43.42
+Tack 1: speed = 36.8, direction = 172.1, distance = 43.42
+
+Leg 2 from mark M1 to M2: direction = 351.0, distance = 57.71
+Tack 2: speed = 16.1, direction = 351.0, distance = 57.71
+
+Leg 3 from mark M2 to M3: direction = 193.6, distance = 67.91
+Tack 3: speed = 32.2, direction = 193.6, distance = 67.91
+
+Race 47 was 169.03 nm long with 3 tacks
+Estimated race duration is 9.27 hours with 1.60 hours of tack penalty
+
+Race 48 has 4 legs
+The race layout is 124.24 nm long
+
+Leg 1 from mark M0 to M1: direction = 157.2, distance = 33.62
+Tack 1: speed = 22.2, direction = 157.2, distance = 33.62
+
+Leg 2 from mark M1 to M2: direction = 52.0, distance = 29.21
+Tack 2: speed = 22.2, direction = 106.0, distance = 1.20
+Tack 3: speed = 22.2, direction = 50.0, distance = 28.52
+
+Leg 3 from mark M2 to M3: direction = 255.7, distance = 44.38
+Tack 4: speed = 40.7, direction = 255.7, distance = 44.38
+
+Leg 4 from mark M3 to M4: direction = 273.4, distance = 17.03
+Tack 5: speed = 40.7, direction = 273.4, distance = 17.03
+
+Race 48 was 124.75 nm long with 5 tacks
+Estimated race duration is 5.56 hours with 0.80 hours of tack penalty
+
+Race 49 has 7 legs
+The race layout is 295.89 nm long
+
+Leg 1 from mark M0 to M1: direction = 163.6, distance = 17.72
+Tack 1: speed = 9.0, direction = 163.6, distance = 17.72
+
+Leg 2 from mark M1 to M2: direction = 271.0, distance = 57.01
+Tack 2: speed = 19.5, direction = 271.0, distance = 57.01
+
+Leg 3 from mark M2 to M3: direction = 331.7, distance = 59.06
+Tack 3: speed = 9.0, direction = 331.7, distance = 59.06
+
+Leg 4 from mark M3 to M4: direction = 346.7, distance = 39.05
+Tack 4: speed = 9.0, direction = 346.7, distance = 39.05
+
+Leg 5 from mark M4 to M5: direction = 146.3, distance = 39.66
+Tack 5: speed = 9.0, direction = 146.3, distance = 39.66
+
+Leg 6 from mark M5 to M6: direction = 96.4, distance = 62.39
+Tack 6: speed = 9.0, direction = 102.0, distance = 58.61
+Tack 7: speed = 9.0, direction = 42.0, distance = 6.98
+
+Leg 7 from mark M6 to M7: direction = 180.0, distance = 21.00
+Tack 8: speed = 9.0, direction = 180.0, distance = 21.00
+
+Race 49 was 299.09 nm long with 8 tacks
+Estimated race duration is 37.02 hours with 6.30 hours of tack penalty
+
+Race 50 has 2 legs
+The race layout is 147.56 nm long
+
+Leg 1 from mark M0 to M1: direction = 220.9, distance = 88.62
+Tack 1: speed = 25.6, direction = 220.9, distance = 88.62
+
+Leg 2 from mark M1 to M2: direction = 75.3, distance = 58.94
+Tack 2: speed = 9.6, direction = 105.0, distance = 24.85
+Tack 3: speed = 9.6, direction = 57.0, distance = 39.35
+
+Race 50 was 152.81 nm long with 3 tacks
+Estimated race duration is 11.55 hours with 1.40 hours of tack penalty
+
+Race 51 has 7 legs
+The race layout is 291.55 nm long
+
+Leg 1 from mark M0 to M1: direction = 131.2, distance = 10.63
+Tack 1: speed = 110.2, direction = 131.2, distance = 10.63
+
+Leg 2 from mark M1 to M2: direction = 261.3, distance = 52.61
+Tack 2: speed = 40.6, direction = 261.3, distance = 52.61
+
+Leg 3 from mark M2 to M3: direction = 55.9, distance = 74.89
+Tack 3: speed = 40.6, direction = 55.9, distance = 74.89
+
+Leg 4 from mark M3 to M4: direction = 259.2, distance = 47.85
+Tack 4: speed = 40.6, direction = 259.2, distance = 47.85
+
+Leg 5 from mark M4 to M5: direction = 266.9, distance = 37.05
+Tack 5: speed = 40.6, direction = 266.9, distance = 37.05
+
+Leg 6 from mark M5 to M6: direction = 40.6, distance = 27.66
+Tack 6: speed = 40.6, direction = 40.6, distance = 27.66
+
+Leg 7 from mark M6 to M7: direction = 111.5, distance = 40.85
+Tack 7: speed = 110.2, direction = 111.5, distance = 40.85
+
+Race 51 was 291.55 nm long with 7 tacks
+Estimated race duration is 8.78 hours with 2.40 hours of tack penalty
+
+Race 52 has 7 legs
+The race layout is 359.51 nm long
+
+Leg 1 from mark M0 to M1: direction = 119.7, distance = 32.25
+Tack 1: speed = 30.6, direction = 119.7, distance = 32.25
+
+Leg 2 from mark M1 to M2: direction = 178.4, distance = 36.01
+Tack 2: speed = 18.7, direction = 178.4, distance = 36.01
+
+Leg 3 from mark M2 to M3: direction = 2.2, distance = 52.04
+Tack 3: speed = 13.6, direction = 54.0, distance = 53.93
+Tack 4: speed = 13.6, direction = 296.0, distance = 46.31
+
+Leg 4 from mark M3 to M4: direction = 151.7, distance = 59.06
+Tack 5: speed = 30.6, direction = 151.7, distance = 59.06
+
+Leg 5 from mark M4 to M5: direction = 11.9, distance = 38.83
+Tack 6: speed = 13.6, direction = 54.0, distance = 42.65
+Tack 7: speed = 13.6, direction = 296.0, distance = 29.49
+
+Leg 6 from mark M5 to M6: direction = 283.8, distance = 71.06
+Tack 8: speed = 13.6, direction = 283.8, distance = 71.06
+
+Leg 7 from mark M6 to M7: direction = 85.1, distance = 70.26
+Tack 9: speed = 30.6, direction = 85.1, distance = 70.26
+
+Race 52 was 441.03 nm long with 9 tacks
+Estimated race duration is 29.61 hours with 4.00 hours of tack penalty
+
+Race 53 has 6 legs
+The race layout is 375.04 nm long
+
+Leg 1 from mark M0 to M1: direction = 44.1, distance = 90.52
+Tack 1: speed = 11.4, direction = 44.1, distance = 90.52
+
+Leg 2 from mark M1 to M2: direction = 225.9, distance = 45.97
+Tack 2: speed = 20.9, direction = 225.9, distance = 45.97
+
+Leg 3 from mark M2 to M3: direction = 238.6, distance = 63.29
+Tack 3: speed = 20.9, direction = 238.6, distance = 63.29
+
+Leg 4 from mark M3 to M4: direction = 23.2, distance = 76.16
+Tack 4: speed = 11.4, direction = 43.0, distance = 7.80
+Tack 5: speed = 11.4, direction = 21.0, distance = 68.87
+
+Leg 5 from mark M4 to M5: direction = 86.1, distance = 44.10
+Tack 6: speed = 11.4, direction = 86.1, distance = 44.10
+
+Leg 6 from mark M5 to M6: direction = 243.0, distance = 55.01
+Tack 7: speed = 20.9, direction = 243.0, distance = 55.01
+
+Race 53 was 375.55 nm long with 7 tacks
+Estimated race duration is 35.39 hours with 6.00 hours of tack penalty
+
+Race 54 has 8 legs
+The race layout is 359.62 nm long
+
+Leg 1 from mark M0 to M1: direction = 96.3, distance = 18.11
+Tack 1: speed = 44.0, direction = 96.3, distance = 18.11
+
+Leg 2 from mark M1 to M2: direction = 82.9, distance = 32.25
+Tack 2: speed = 44.0, direction = 82.9, distance = 32.25
+
+Leg 3 from mark M2 to M3: direction = 320.4, distance = 89.50
+Tack 3: speed = 30.8, direction = 335.0, distance = 66.37
+Tack 4: speed = 30.8, direction = 287.0, distance = 30.28
+
+Leg 4 from mark M3 to M4: direction = 236.3, distance = 28.84
+Tack 5: speed = 30.8, direction = 236.3, distance = 28.84
+
+Leg 5 from mark M4 to M5: direction = 28.8, distance = 45.65
+Tack 6: speed = 30.8, direction = 28.8, distance = 45.65
+
+Leg 6 from mark M5 to M6: direction = 171.3, distance = 26.31
+Tack 7: speed = 44.0, direction = 171.3, distance = 26.31
+
+Leg 7 from mark M6 to M7: direction = 236.3, distance = 46.87
+Tack 8: speed = 30.8, direction = 236.3, distance = 46.87
+
+Leg 8 from mark M7 to M8: direction = 66.3, distance = 72.09
+Tack 9: speed = 79.2, direction = 66.3, distance = 72.09
+
+Race 54 was 366.76 nm long with 9 tacks
+Estimated race duration is 20.73 hours with 8.00 hours of tack penalty
+
+Race 55 has 3 legs
+The race layout is 187.64 nm long
+
+Leg 1 from mark M0 to M1: direction = 281.0, distance = 31.58
+Tack 1: speed = 48.6, direction = 281.0, distance = 31.58
+
+Leg 2 from mark M1 to M2: direction = 310.7, distance = 47.51
+Tack 2: speed = 21.6, direction = 310.7, distance = 47.51
+
+Leg 3 from mark M2 to M3: direction = 121.1, distance = 108.56
+Tack 3: speed = 48.6, direction = 121.1, distance = 108.56
+
+Race 55 was 187.64 nm long with 3 tacks
+Estimated race duration is 6.28 hours with 1.20 hours of tack penalty
+
+Race 56 has 8 legs
+The race layout is 378.94 nm long
+
+Leg 1 from mark M0 to M1: direction = 211.4, distance = 69.12
+Tack 1: speed = 28.8, direction = 211.4, distance = 69.12
+
+Leg 2 from mark M1 to M2: direction = 26.2, distance = 65.74
+Tack 2: speed = 52.8, direction = 26.2, distance = 65.74
+
+Leg 3 from mark M2 to M3: direction = 213.7, distance = 28.84
+Tack 3: speed = 28.8, direction = 213.7, distance = 28.84
+
+Leg 4 from mark M3 to M4: direction = 154.1, distance = 38.91
+Tack 4: speed = 28.8, direction = 154.1, distance = 38.91
+
+Leg 5 from mark M4 to M5: direction = 228.6, distance = 22.67
+Tack 5: speed = 28.8, direction = 231.0, distance = 18.81
+Tack 6: speed = 28.8, direction = 217.0, distance = 3.96
+
+Leg 6 from mark M5 to M6: direction = 105.5, distance = 18.68
+Tack 7: speed = 86.4, direction = 105.5, distance = 18.68
+
+Leg 7 from mark M6 to M7: direction = 348.4, distance = 84.72
+Tack 8: speed = 86.4, direction = 348.4, distance = 84.72
+
+Leg 8 from mark M7 to M8: direction = 95.7, distance = 50.25
+Tack 9: speed = 86.4, direction = 95.7, distance = 50.25
+
+Race 56 was 379.04 nm long with 9 tacks
+Estimated race duration is 10.37 hours with 1.60 hours of tack penalty
+
+Race 57 has 3 legs
+The race layout is 195.59 nm long
+
+Leg 1 from mark M0 to M1: direction = 189.8, distance = 52.77
+Tack 1: speed = 23.1, direction = 189.8, distance = 52.77
+
+Leg 2 from mark M1 to M2: direction = 247.2, distance = 67.23
+Tack 2: speed = 52.8, direction = 247.2, distance = 67.23
+
+Leg 3 from mark M2 to M3: direction = 25.9, distance = 75.58
+Tack 3: speed = 23.1, direction = 25.9, distance = 75.58
+
+Race 57 was 195.59 nm long with 3 tacks
+Estimated race duration is 7.43 hours with 0.60 hours of tack penalty
+
+Race 58 has 7 legs
+The race layout is 377.61 nm long
+
+Leg 1 from mark M0 to M1: direction = 296.1, distance = 61.27
+Tack 1: speed = 51.6, direction = 296.1, distance = 61.27
+
+Leg 2 from mark M1 to M2: direction = 209.7, distance = 8.06
+Tack 2: speed = 51.6, direction = 209.7, distance = 8.06
+
+Leg 3 from mark M2 to M3: direction = 83.3, distance = 51.35
+Tack 3: speed = 38.7, direction = 83.3, distance = 51.35
+
+Leg 4 from mark M3 to M4: direction = 139.2, distance = 38.29
+Tack 4: speed = 77.4, direction = 139.2, distance = 38.29
+
+Leg 5 from mark M4 to M5: direction = 276.1, distance = 47.27
+Tack 5: speed = 51.6, direction = 276.1, distance = 47.27
+
+Leg 6 from mark M5 to M6: direction = 332.8, distance = 80.95
+Tack 6: speed = 77.4, direction = 332.8, distance = 80.95
+
+Leg 7 from mark M6 to M7: direction = 79.8, distance = 90.43
+Tack 7: speed = 38.7, direction = 79.8, distance = 90.43
+
+Race 58 was 377.61 nm long with 7 tacks
+Estimated race duration is 9.26 hours with 1.20 hours of tack penalty
+
+Race 59 has 5 legs
+The race layout is 258.77 nm long
+
+Leg 1 from mark M0 to M1: direction = 192.6, distance = 87.10
+Tack 1: speed = 38.5, direction = 192.6, distance = 87.10
+
+Leg 2 from mark M1 to M2: direction = 6.9, distance = 58.42
+Tack 2: speed = 38.5, direction = 6.9, distance = 58.42
+
+Leg 3 from mark M2 to M3: direction = 105.7, distance = 66.48
+Tack 3: speed = 38.5, direction = 155.0, distance = 50.44
+Tack 4: speed = 38.5, direction = 57.0, distance = 50.89
+
+Leg 4 from mark M3 to M4: direction = 225.0, distance = 31.11
+Tack 5: speed = 99.0, direction = 225.0, distance = 31.11
+
+Leg 5 from mark M4 to M5: direction = 116.6, distance = 15.65
+Tack 6: speed = 38.5, direction = 155.0, distance = 13.63
+Tack 7: speed = 38.5, direction = 57.0, distance = 9.83
+
+Race 59 was 301.42 nm long with 7 tacks
+Estimated race duration is 9.14 hours with 1.80 hours of tack penalty
+
+Race 60 has 6 legs
+The race layout is 312.67 nm long
+
+Leg 1 from mark M0 to M1: direction = 7.1, distance = 40.31
+Tack 1: speed = 83.3, direction = 7.1, distance = 40.31
+
+Leg 2 from mark M1 to M2: direction = 226.4, distance = 29.00
+Tack 2: speed = 83.3, direction = 226.4, distance = 29.00
+
+Leg 3 from mark M2 to M3: direction = 356.4, distance = 32.06
+Tack 3: speed = 58.8, direction = 356.4, distance = 32.06
+
+Leg 4 from mark M3 to M4: direction = 83.3, distance = 60.41
+Tack 4: speed = 39.2, direction = 83.3, distance = 60.41
+
+Leg 5 from mark M4 to M5: direction = 243.1, distance = 79.61
+Tack 5: speed = 83.3, direction = 243.1, distance = 79.61
+
+Leg 6 from mark M5 to M6: direction = 124.1, distance = 71.28
+Tack 6: speed = 39.2, direction = 157.0, distance = 35.70
+Tack 7: speed = 39.2, direction = 99.0, distance = 45.61
+
+Race 60 was 322.70 nm long with 7 tacks
+Estimated race duration is 9.45 hours with 3.00 hours of tack penalty
+
+Race 61 has 5 legs
+The race layout is 325.90 nm long
+
+Leg 1 from mark M0 to M1: direction = 80.5, distance = 97.32
+Tack 1: speed = 16.8, direction = 141.0, distance = 23.70
+Tack 2: speed = 16.8, direction = 67.0, distance = 88.09
+
+Leg 2 from mark M1 to M2: direction = 323.1, distance = 65.00
+Tack 3: speed = 39.9, direction = 323.1, distance = 65.00
+
+Leg 3 from mark M2 to M3: direction = 274.3, distance = 53.15
+Tack 4: speed = 39.9, direction = 274.3, distance = 53.15
+
+Leg 4 from mark M3 to M4: direction = 155.4, distance = 64.88
+Tack 5: speed = 16.8, direction = 155.4, distance = 64.88
+
+Leg 5 from mark M4 to M5: direction = 109.2, distance = 45.54
+Tack 6: speed = 16.8, direction = 141.0, distance = 31.84
+Tack 7: speed = 16.8, direction = 67.0, distance = 24.94
+
+Race 61 was 351.61 nm long with 7 tacks
+Estimated race duration is 18.06 hours with 1.20 hours of tack penalty
+
+Race 62 has 6 legs
+The race layout is 251.74 nm long
+
+Leg 1 from mark M0 to M1: direction = 346.5, distance = 55.54
+Tack 1: speed = 37.8, direction = 346.5, distance = 55.54
+
+Leg 2 from mark M1 to M2: direction = 78.4, distance = 44.91
+Tack 2: speed = 37.8, direction = 84.0, distance = 40.78
+Tack 3: speed = 37.8, direction = 36.0, distance = 5.86
+
+Leg 3 from mark M2 to M3: direction = 226.8, distance = 43.86
+Tack 4: speed = 46.2, direction = 226.8, distance = 43.86
+
+Leg 4 from mark M3 to M4: direction = 196.9, distance = 48.08
+Tack 5: speed = 46.2, direction = 196.9, distance = 48.08
+
+Leg 5 from mark M4 to M5: direction = 53.7, distance = 37.20
+Tack 6: speed = 37.8, direction = 84.0, distance = 15.26
+Tack 7: speed = 37.8, direction = 36.0, distance = 25.22
+
+Leg 6 from mark M5 to M6: direction = 341.6, distance = 22.14
+Tack 8: speed = 37.8, direction = 341.6, distance = 22.14
+
+Race 62 was 256.74 nm long with 8 tacks
+Estimated race duration is 11.75 hours with 4.20 hours of tack penalty
+
+Race 63 has 3 legs
+The race layout is 184.54 nm long
+
+Leg 1 from mark M0 to M1: direction = 83.8, distance = 64.38
+Tack 1: speed = 28.5, direction = 83.8, distance = 64.38
+
+Leg 2 from mark M1 to M2: direction = 293.0, distance = 71.69
+Tack 2: speed = 15.2, direction = 355.0, distance = 40.30
+Tack 3: speed = 15.2, direction = 259.0, distance = 63.66
+
+Leg 3 from mark M2 to M3: direction = 111.8, distance = 48.47
+Tack 4: speed = 19.0, direction = 111.8, distance = 48.47
+
+Race 63 was 216.81 nm long with 4 tacks
+Estimated race duration is 14.45 hours with 2.10 hours of tack penalty
+
+Race 64 has 8 legs
+The race layout is 531.62 nm long
+
+Leg 1 from mark M0 to M1: direction = 103.4, distance = 43.17
+Tack 1: speed = 90.0, direction = 103.4, distance = 43.17
+
+Leg 2 from mark M1 to M2: direction = 349.8, distance = 61.98
+Tack 2: speed = 40.0, direction = 349.8, distance = 61.98
+
+Leg 3 from mark M2 to M3: direction = 213.3, distance = 90.97
+Tack 3: speed = 90.0, direction = 213.3, distance = 90.97
+
+Leg 4 from mark M3 to M4: direction = 41.8, distance = 76.49
+Tack 4: speed = 90.0, direction = 41.8, distance = 76.49
+
+Leg 5 from mark M4 to M5: direction = 278.1, distance = 56.57
+Tack 5: speed = 40.0, direction = 335.0, distance = 19.11
+Tack 6: speed = 40.0, direction = 259.0, distance = 48.82
+
+Leg 6 from mark M5 to M6: direction = 109.7, distance = 89.20
+Tack 7: speed = 60.0, direction = 109.7, distance = 89.20
+
+Leg 7 from mark M6 to M7: direction = 286.8, distance = 79.40
+Tack 8: speed = 40.0, direction = 335.0, distance = 38.21
+Tack 9: speed = 40.0, direction = 259.0, distance = 60.97
+
+Leg 8 from mark M7 to M8: direction = 161.0, distance = 33.84
+Tack 10: speed = 90.0, direction = 161.0, distance = 33.84
+
+Race 64 was 562.76 nm long with 10 tacks
+Estimated race duration is 16.93 hours with 6.30 hours of tack penalty
+
+Race 65 has 7 legs
+The race layout is 436.55 nm long
+
+Leg 1 from mark M0 to M1: direction = 273.8, distance = 30.07
+Tack 1: speed = 82.5, direction = 273.8, distance = 30.07
+
+Leg 2 from mark M1 to M2: direction = 90.8, distance = 74.01
+Tack 2: speed = 82.5, direction = 90.8, distance = 74.01
+
+Leg 3 from mark M2 to M3: direction = 204.0, distance = 88.64
+Tack 3: speed = 55.0, direction = 204.0, distance = 88.64
+
+Leg 4 from mark M3 to M4: direction = 336.5, distance = 82.86
+Tack 4: speed = 33.0, direction = 336.5, distance = 82.86
+
+Leg 5 from mark M4 to M5: direction = 107.7, distance = 46.17
+Tack 5: speed = 82.5, direction = 107.7, distance = 46.17
+
+Leg 6 from mark M5 to M6: direction = 182.7, distance = 63.07
+Tack 6: speed = 55.0, direction = 182.7, distance = 63.07
+
+Leg 7 from mark M6 to M7: direction = 311.1, distance = 51.74
+Tack 7: speed = 33.0, direction = 311.1, distance = 51.74
+
+Race 65 was 436.55 nm long with 7 tacks
+Estimated race duration is 11.86 hours with 2.40 hours of tack penalty
+
+Race 66 has 6 legs
+The race layout is 218.07 nm long
+
+Leg 1 from mark M0 to M1: direction = 318.4, distance = 36.12
+Tack 1: speed = 63.7, direction = 318.4, distance = 36.12
+
+Leg 2 from mark M1 to M2: direction = 165.6, distance = 40.26
+Tack 2: speed = 29.4, direction = 165.6, distance = 40.26
+
+Leg 3 from mark M2 to M3: direction = 6.7, distance = 34.23
+Tack 3: speed = 29.4, direction = 6.7, distance = 34.23
+
+Leg 4 from mark M3 to M4: direction = 54.2, distance = 30.81
+Tack 4: speed = 29.4, direction = 54.2, distance = 30.81
+
+Leg 5 from mark M4 to M5: direction = 43.2, distance = 21.93
+Tack 5: speed = 29.4, direction = 43.2, distance = 21.93
+
+Leg 6 from mark M5 to M6: direction = 239.2, distance = 54.71
+Tack 6: speed = 63.7, direction = 239.2, distance = 54.71
+
+Race 66 was 218.07 nm long with 6 tacks
+Estimated race duration is 6.45 hours with 0.50 hours of tack penalty
+
+Race 67 has 6 legs
+The race layout is 337.39 nm long
+
+Leg 1 from mark M0 to M1: direction = 38.7, distance = 12.81
+Tack 1: speed = 83.3, direction = 38.7, distance = 12.81
+
+Leg 2 from mark M1 to M2: direction = 249.6, distance = 62.97
+Tack 2: speed = 83.3, direction = 249.6, distance = 62.97
+
+Leg 3 from mark M2 to M3: direction = 94.6, distance = 74.24
+Tack 3: speed = 83.3, direction = 94.6, distance = 74.24
+
+Leg 4 from mark M3 to M4: direction = 273.2, distance = 53.08
+Tack 4: speed = 34.3, direction = 273.2, distance = 53.08
+
+Leg 5 from mark M4 to M5: direction = 52.4, distance = 65.60
+Tack 5: speed = 83.3, direction = 52.4, distance = 65.60
+
+Leg 6 from mark M5 to M6: direction = 253.9, distance = 68.68
+Tack 6: speed = 83.3, direction = 253.9, distance = 68.68
+
+Race 67 was 337.39 nm long with 6 tacks
+Estimated race duration is 6.46 hours with 1.50 hours of tack penalty
+
+Race 68 has 3 legs
+The race layout is 224.38 nm long
+
+Leg 1 from mark M0 to M1: direction = 17.9, distance = 74.63
+Tack 1: speed = 27.9, direction = 17.9, distance = 74.63
+
+Leg 2 from mark M1 to M2: direction = 126.1, distance = 86.61
+Tack 2: speed = 27.9, direction = 145.0, distance = 86.88
+Tack 3: speed = 27.9, direction = 45.0, distance = 28.52
+
+Leg 3 from mark M2 to M3: direction = 330.6, distance = 63.13
+Tack 4: speed = 55.8, direction = 330.6, distance = 63.13
+
+Race 68 was 253.17 nm long with 4 tacks
+Estimated race duration is 8.84 hours with 0.90 hours of tack penalty
+
+Race 69 has 8 legs
+The race layout is 459.84 nm long
+
+Leg 1 from mark M0 to M1: direction = 127.4, distance = 102.00
+Tack 1: speed = 52.2, direction = 127.4, distance = 102.00
+
+Leg 2 from mark M1 to M2: direction = 268.2, distance = 63.03
+Tack 2: speed = 17.4, direction = 277.0, distance = 61.61
+Tack 3: speed = 17.4, direction = 191.0, distance = 9.69
+
+Leg 3 from mark M2 to M3: direction = 9.0, distance = 19.24
+Tack 4: speed = 52.2, direction = 9.0, distance = 19.24
+
+Leg 4 from mark M3 to M4: direction = 118.8, distance = 68.48
+Tack 5: speed = 52.2, direction = 118.8, distance = 68.48
+
+Leg 5 from mark M4 to M5: direction = 276.3, distance = 9.06
+Tack 6: speed = 17.4, direction = 277.0, distance = 9.05
+Tack 7: speed = 17.4, direction = 191.0, distance = 0.10
+
+Leg 6 from mark M5 to M6: direction = 319.9, distance = 114.98
+Tack 8: speed = 52.2, direction = 319.9, distance = 114.98
+
+Leg 7 from mark M6 to M7: direction = 157.3, distance = 80.23
+Tack 9: speed = 17.4, direction = 157.3, distance = 80.23
+
+Leg 8 from mark M7 to M8: direction = 315.0, distance = 2.83
+Tack 10: speed = 17.4, direction = 315.0, distance = 2.83
+
+Race 69 was 468.20 nm long with 10 tacks
+Estimated race duration is 20.63 hours with 5.40 hours of tack penalty
+
+Race 70 has 4 legs
+The race layout is 265.64 nm long
+
+Leg 1 from mark M0 to M1: direction = 95.6, distance = 72.34
+Tack 1: speed = 31.5, direction = 95.6, distance = 72.34
+
+Leg 2 from mark M1 to M2: direction = 317.4, distance = 85.63
+Tack 2: speed = 66.5, direction = 317.4, distance = 85.63
+
+Leg 3 from mark M2 to M3: direction = 285.3, distance = 22.80
+Tack 3: speed = 66.5, direction = 285.3, distance = 22.80
+
+Leg 4 from mark M3 to M4: direction = 111.4, distance = 84.86
+Tack 4: speed = 31.5, direction = 111.4, distance = 84.86
+
+Race 70 was 265.64 nm long with 4 tacks
+Estimated race duration is 7.52 hours with 0.90 hours of tack penalty
+
+Race 71 has 7 legs
+The race layout is 308.52 nm long
+
+Leg 1 from mark M0 to M1: direction = 100.6, distance = 16.28
+Tack 1: speed = 44.0, direction = 153.0, distance = 4.73
+Tack 2: speed = 44.0, direction = 85.0, distance = 13.91
+
+Leg 2 from mark M1 to M2: direction = 165.3, distance = 43.42
+Tack 3: speed = 44.0, direction = 165.3, distance = 43.42
+
+Leg 3 from mark M2 to M3: direction = 242.0, distance = 53.24
+Tack 4: speed = 104.5, direction = 242.0, distance = 53.24
+
+Leg 4 from mark M3 to M4: direction = 77.6, distance = 60.42
+Tack 5: speed = 44.0, direction = 77.6, distance = 60.42
+
+Leg 5 from mark M4 to M5: direction = 261.8, distance = 83.86
+Tack 6: speed = 55.0, direction = 261.8, distance = 83.86
+
+Leg 6 from mark M5 to M6: direction = 281.3, distance = 10.20
+Tack 7: speed = 55.0, direction = 281.3, distance = 10.20
+
+Leg 7 from mark M6 to M7: direction = 94.2, distance = 41.11
+Tack 8: speed = 44.0, direction = 153.0, distance = 7.08
+Tack 9: speed = 44.0, direction = 85.0, distance = 37.93
+
+Race 71 was 314.77 nm long with 9 tacks
+Estimated race duration is 12.03 hours with 4.80 hours of tack penalty
+
+Race 72 has 3 legs
+The race layout is 185.19 nm long
+
+Leg 1 from mark M0 to M1: direction = 26.2, distance = 72.45
+Tack 1: speed = 26.5, direction = 26.2, distance = 72.45
+
+Leg 2 from mark M1 to M2: direction = 196.6, distance = 59.48
+Tack 2: speed = 53.0, direction = 196.6, distance = 59.48
+
+Leg 3 from mark M2 to M3: direction = 320.3, distance = 53.26
+Tack 3: speed = 90.1, direction = 320.3, distance = 53.26
+
+Race 72 was 185.19 nm long with 3 tacks
+Estimated race duration is 5.95 hours with 1.00 hours of tack penalty
+
+Race 73 has 5 legs
+The race layout is 187.31 nm long
+
+Leg 1 from mark M0 to M1: direction = 351.4, distance = 33.38
+Tack 1: speed = 78.4, direction = 351.4, distance = 33.38
+
+Leg 2 from mark M1 to M2: direction = 237.5, distance = 39.12
+Tack 2: speed = 50.4, direction = 237.5, distance = 39.12
+
+Leg 3 from mark M2 to M3: direction = 175.8, distance = 54.15
+Tack 3: speed = 50.4, direction = 203.0, distance = 11.40
+Tack 4: speed = 50.4, direction = 169.0, distance = 44.32
+
+Leg 4 from mark M3 to M4: direction = 46.1, distance = 36.07
+Tack 5: speed = 106.4, direction = 46.1, distance = 36.07
+
+Leg 5 from mark M4 to M5: direction = 153.4, distance = 24.60
+Tack 6: speed = 50.4, direction = 153.4, distance = 24.60
+
+Race 73 was 188.88 nm long with 6 tacks
+Estimated race duration is 6.13 hours with 2.50 hours of tack penalty
+
+Race 74 has 6 legs
+The race layout is 344.51 nm long
+
+Leg 1 from mark M0 to M1: direction = 321.8, distance = 42.01
+Tack 1: speed = 45.6, direction = 321.8, distance = 42.01
+
+Leg 2 from mark M1 to M2: direction = 151.5, distance = 64.88
+Tack 2: speed = 21.6, direction = 151.5, distance = 64.88
+
+Leg 3 from mark M2 to M3: direction = 273.1, distance = 37.05
+Tack 3: speed = 21.6, direction = 273.1, distance = 37.05
+
+Leg 4 from mark M3 to M4: direction = 44.2, distance = 51.62
+Tack 4: speed = 31.2, direction = 44.2, distance = 51.62
+
+Leg 5 from mark M4 to M5: direction = 240.6, distance = 81.49
+Tack 5: speed = 21.6, direction = 240.6, distance = 81.49
+
+Leg 6 from mark M5 to M6: direction = 74.5, distance = 67.45
+Tack 6: speed = 45.6, direction = 74.5, distance = 67.45
+
+Race 74 was 344.51 nm long with 6 tacks
+Estimated race duration is 16.15 hours with 3.00 hours of tack penalty
+
+Race 75 has 7 legs
+The race layout is 423.84 nm long
+
+Leg 1 from mark M0 to M1: direction = 336.5, distance = 100.32
+Tack 1: speed = 24.3, direction = 336.5, distance = 100.32
+
+Leg 2 from mark M1 to M2: direction = 150.7, distance = 47.01
+Tack 2: speed = 29.7, direction = 150.7, distance = 47.01
+
+Leg 3 from mark M2 to M3: direction = 225.8, distance = 50.21
+Tack 3: speed = 29.7, direction = 225.8, distance = 50.21
+
+Leg 4 from mark M3 to M4: direction = 32.9, distance = 97.64
+Tack 4: speed = 24.3, direction = 32.9, distance = 97.64
+
+Leg 5 from mark M4 to M5: direction = 160.1, distance = 73.39
+Tack 5: speed = 29.7, direction = 160.1, distance = 73.39
+
+Leg 6 from mark M5 to M6: direction = 71.6, distance = 15.81
+Tack 6: speed = 51.3, direction = 71.6, distance = 15.81
+
+Leg 7 from mark M6 to M7: direction = 351.3, distance = 39.46
+Tack 7: speed = 24.3, direction = 351.3, distance = 39.46
+
+Race 75 was 423.84 nm long with 7 tacks
+Estimated race duration is 22.12 hours with 4.20 hours of tack penalty
+
+Race 76 has 7 legs
+The race layout is 385.38 nm long
+
+Leg 1 from mark M0 to M1: direction = 63.7, distance = 83.63
+Tack 1: speed = 34.0, direction = 63.7, distance = 83.63
+
+Leg 2 from mark M1 to M2: direction = 263.1, distance = 66.48
+Tack 2: speed = 20.4, direction = 263.1, distance = 66.48
+
+Leg 3 from mark M2 to M3: direction = 80.5, distance = 12.17
+Tack 3: speed = 34.0, direction = 80.5, distance = 12.17
+
+Leg 4 from mark M3 to M4: direction = 199.3, distance = 42.38
+Tack 4: speed = 20.4, direction = 199.3, distance = 42.38
+
+Leg 5 from mark M4 to M5: direction = 42.3, distance = 60.88
+Tack 5: speed = 34.0, direction = 42.3, distance = 60.88
+
+Leg 6 from mark M5 to M6: direction = 173.4, distance = 43.29
+Tack 6: speed = 20.4, direction = 173.4, distance = 43.29
+
+Leg 7 from mark M6 to M7: direction = 326.7, distance = 76.55
+Tack 7: speed = 54.4, direction = 326.7, distance = 76.55
+
+Race 76 was 385.38 nm long with 7 tacks
+Estimated race duration is 17.97 hours with 3.00 hours of tack penalty
+
+Race 77 has 6 legs
+The race layout is 281.32 nm long
+
+Leg 1 from mark M0 to M1: direction = 86.1, distance = 59.14
+Tack 1: speed = 30.6, direction = 171.0, distance = 7.34
+Tack 2: speed = 30.6, direction = 79.0, distance = 58.94
+
+Leg 2 from mark M1 to M2: direction = 352.6, distance = 54.45
+Tack 3: speed = 44.2, direction = 352.6, distance = 54.45
+
+Leg 3 from mark M2 to M3: direction = 163.5, distance = 45.88
+Tack 4: speed = 30.6, direction = 171.0, distance = 45.70
+Tack 5: speed = 30.6, direction = 79.0, distance = 5.96
+
+Leg 4 from mark M3 to M4: direction = 358.0, distance = 58.03
+Tack 6: speed = 68.0, direction = 358.0, distance = 58.03
+
+Leg 5 from mark M4 to M5: direction = 256.9, distance = 30.81
+Tack 7: speed = 44.2, direction = 256.9, distance = 30.81
+
+Leg 6 from mark M5 to M6: direction = 268.3, distance = 33.02
+Tack 8: speed = 44.2, direction = 268.3, distance = 33.02
+
+Race 77 was 294.24 nm long with 8 tacks
+Estimated race duration is 13.38 hours with 4.20 hours of tack penalty
+
+Race 78 has 7 legs
+The race layout is 397.81 nm long
+
+Leg 1 from mark M0 to M1: direction = 93.5, distance = 33.06
+Tack 1: speed = 40.0, direction = 93.5, distance = 33.06
+
+Leg 2 from mark M1 to M2: direction = 291.4, distance = 84.86
+Tack 2: speed = 65.0, direction = 291.4, distance = 84.86
+
+Leg 3 from mark M2 to M3: direction = 123.7, distance = 90.14
+Tack 3: speed = 40.0, direction = 208.0, distance = 41.58
+Tack 4: speed = 40.0, direction = 98.0, distance = 95.45
+
+Leg 4 from mark M3 to M4: direction = 331.3, distance = 35.36
+Tack 5: speed = 65.0, direction = 331.3, distance = 35.36
+
+Leg 5 from mark M4 to M5: direction = 60.9, distance = 20.59
+Tack 6: speed = 90.0, direction = 60.9, distance = 20.59
+
+Leg 6 from mark M5 to M6: direction = 224.0, distance = 79.21
+Tack 7: speed = 40.0, direction = 224.0, distance = 79.21
+
+Leg 7 from mark M6 to M7: direction = 28.4, distance = 54.59
+Tack 8: speed = 65.0, direction = 28.4, distance = 54.59
+
+Race 78 was 444.70 nm long with 8 tacks
+Estimated race duration is 13.15 hours with 2.80 hours of tack penalty
+
+Race 79 has 5 legs
+The race layout is 227.65 nm long
+
+Leg 1 from mark M0 to M1: direction = 215.7, distance = 39.41
+Tack 1: speed = 36.8, direction = 215.7, distance = 39.41
+
+Leg 2 from mark M1 to M2: direction = 290.3, distance = 49.04
+Tack 2: speed = 36.8, direction = 290.3, distance = 49.04
+
+Leg 3 from mark M2 to M3: direction = 188.1, distance = 28.28
+Tack 3: speed = 36.8, direction = 188.1, distance = 28.28
+
+Leg 4 from mark M3 to M4: direction = 102.9, distance = 71.81
+Tack 4: speed = 55.2, direction = 102.9, distance = 71.81
+
+Leg 5 from mark M4 to M5: direction = 327.5, distance = 39.12
+Tack 5: speed = 36.8, direction = 327.5, distance = 39.12
+
+Race 79 was 227.65 nm long with 5 tacks
+Estimated race duration is 6.04 hours with 0.40 hours of tack penalty
+
+Race 80 has 6 legs
+The race layout is 224.17 nm long
+
+Leg 1 from mark M0 to M1: direction = 222.7, distance = 35.38
+Tack 1: speed = 28.8, direction = 222.7, distance = 35.38
+
+Leg 2 from mark M1 to M2: direction = 21.6, distance = 46.24
+Tack 2: speed = 28.8, direction = 21.6, distance = 46.24
+
+Leg 3 from mark M2 to M3: direction = 291.8, distance = 21.54
+Tack 3: speed = 16.2, direction = 332.0, distance = 11.39
+Tack 4: speed = 16.2, direction = 262.0, distance = 14.80
+
+Leg 4 from mark M3 to M4: direction = 163.9, distance = 39.56
+Tack 5: speed = 28.8, direction = 163.9, distance = 39.56
+
+Leg 5 from mark M4 to M5: direction = 255.1, distance = 66.22
+Tack 6: speed = 16.2, direction = 255.1, distance = 66.22
+
+Leg 6 from mark M5 to M6: direction = 203.2, distance = 15.23
+Tack 7: speed = 28.8, direction = 203.2, distance = 15.23
+
+Race 80 was 228.82 nm long with 7 tacks
+Estimated race duration is 15.84 hours with 5.40 hours of tack penalty
+
+Race 81 has 3 legs
+The race layout is 197.15 nm long
+
+Leg 1 from mark M0 to M1: direction = 188.5, distance = 67.74
+Tack 1: speed = 47.6, direction = 188.5, distance = 67.74
+
+Leg 2 from mark M1 to M2: direction = 226.7, distance = 23.35
+Tack 2: speed = 47.6, direction = 226.7, distance = 23.35
+
+Leg 3 from mark M2 to M3: direction = 45.0, distance = 106.07
+Tack 3: speed = 34.0, direction = 94.0, distance = 101.93
+Tack 4: speed = 34.0, direction = 342.0, distance = 86.34
+
+Race 81 was 279.35 nm long with 4 tacks
+Estimated race duration is 9.45 hours with 1.20 hours of tack penalty
+
+Race 82 has 4 legs
+The race layout is 157.64 nm long
+
+Leg 1 from mark M0 to M1: direction = 223.9, distance = 36.07
+Tack 1: speed = 104.4, direction = 223.9, distance = 36.07
+
+Leg 2 from mark M1 to M2: direction = 244.2, distance = 34.44
+Tack 2: speed = 87.0, direction = 244.2, distance = 34.44
+
+Leg 3 from mark M2 to M3: direction = 121.7, distance = 64.66
+Tack 3: speed = 40.6, direction = 123.0, distance = 65.35
+Tack 4: speed = 40.6, direction = 7.0, distance = 1.60
+
+Leg 4 from mark M3 to M4: direction = 122.3, distance = 22.47
+Tack 5: speed = 40.6, direction = 123.0, distance = 22.61
+Tack 6: speed = 40.6, direction = 7.0, distance = 0.32
+
+Race 82 was 160.38 nm long with 6 tacks
+Estimated race duration is 4.75 hours with 1.50 hours of tack penalty
+
+Race 83 has 6 legs
+The race layout is 316.95 nm long
+
+Leg 1 from mark M0 to M1: direction = 4.0, distance = 85.21
+Tack 1: speed = 25.2, direction = 92.0, distance = 48.31
+Tack 2: speed = 25.2, direction = 334.0, distance = 96.45
+
+Leg 2 from mark M1 to M2: direction = 173.2, distance = 50.36
+Tack 3: speed = 58.8, direction = 173.2, distance = 50.36
+
+Leg 3 from mark M2 to M3: direction = 356.3, distance = 47.10
+Tack 4: speed = 25.2, direction = 92.0, distance = 20.28
+Tack 5: speed = 25.2, direction = 334.0, distance = 53.08
+
+Leg 4 from mark M3 to M4: direction = 216.7, distance = 53.60
+Tack 6: speed = 58.8, direction = 216.7, distance = 53.60
+
+Leg 5 from mark M4 to M5: direction = 119.4, distance = 36.72
+Tack 7: speed = 25.2, direction = 119.4, distance = 36.72
+
+Leg 6 from mark M5 to M6: direction = 252.8, distance = 43.97
+Tack 8: speed = 58.8, direction = 252.8, distance = 43.97
+
+Race 83 was 402.76 nm long with 8 tacks
+Estimated race duration is 13.63 hours with 0.70 hours of tack penalty
+
+Race 84 has 6 legs
+The race layout is 243.02 nm long
+
+Leg 1 from mark M0 to M1: direction = 355.0, distance = 34.13
+Tack 1: speed = 21.6, direction = 355.0, distance = 34.13
+
+Leg 2 from mark M1 to M2: direction = 194.5, distance = 32.02
+Tack 2: speed = 48.6, direction = 194.5, distance = 32.02
+
+Leg 3 from mark M2 to M3: direction = 79.9, distance = 45.71
+Tack 3: speed = 21.6, direction = 100.0, distance = 31.53
+Tack 4: speed = 21.6, direction = 46.0, distance = 19.40
+
+Leg 4 from mark M3 to M4: direction = 213.7, distance = 18.03
+Tack 5: speed = 48.6, direction = 213.7, distance = 18.03
+
+Leg 5 from mark M4 to M5: direction = 14.5, distance = 59.91
+Tack 6: speed = 21.6, direction = 14.5, distance = 59.91
+
+Leg 6 from mark M5 to M6: direction = 298.0, distance = 53.24
+Tack 7: speed = 48.6, direction = 298.0, distance = 53.24
+
+Race 84 was 248.24 nm long with 7 tacks
+Estimated race duration is 14.24 hours with 5.40 hours of tack penalty
+
+Race 85 has 2 legs
+The race layout is 77.33 nm long
+
+Leg 1 from mark M0 to M1: direction = 213.3, distance = 38.28
+Tack 1: speed = 12.0, direction = 213.3, distance = 38.28
+
+Leg 2 from mark M1 to M2: direction = 357.1, distance = 39.05
+Tack 2: speed = 25.5, direction = 357.1, distance = 39.05
+
+Race 85 was 77.33 nm long with 2 tacks
+Estimated race duration is 5.72 hours with 1.00 hours of tack penalty
+
+Race 86 has 5 legs
+The race layout is 299.02 nm long
+
+Leg 1 from mark M0 to M1: direction = 113.2, distance = 99.01
+Tack 1: speed = 46.0, direction = 113.2, distance = 99.01
+
+Leg 2 from mark M1 to M2: direction = 214.2, distance = 30.23
+Tack 2: speed = 46.0, direction = 221.0, distance = 28.72
+Tack 3: speed = 46.0, direction = 151.0, distance = 3.80
+
+Leg 3 from mark M2 to M3: direction = 328.7, distance = 59.68
+Tack 4: speed = 78.2, direction = 328.7, distance = 59.68
+
+Leg 4 from mark M3 to M4: direction = 228.2, distance = 37.54
+Tack 5: speed = 46.0, direction = 228.2, distance = 37.54
+
+Leg 5 from mark M4 to M5: direction = 348.1, distance = 72.57
+Tack 6: speed = 50.6, direction = 348.1, distance = 72.57
+
+Race 86 was 301.31 nm long with 6 tacks
+Estimated race duration is 7.07 hours with 1.00 hours of tack penalty
+
+Race 87 has 7 legs
+The race layout is 337.06 nm long
+
+Leg 1 from mark M0 to M1: direction = 61.4, distance = 89.94
+Tack 1: speed = 49.5, direction = 61.4, distance = 89.94
+
+Leg 2 from mark M1 to M2: direction = 248.0, distance = 50.70
+Tack 2: speed = 93.5, direction = 248.0, distance = 50.70
+
+Leg 3 from mark M2 to M3: direction = 354.3, distance = 20.10
+Tack 3: speed = 49.5, direction = 354.3, distance = 20.10
+
+Leg 4 from mark M3 to M4: direction = 76.6, distance = 43.17
+Tack 4: speed = 49.5, direction = 76.6, distance = 43.17
+
+Leg 5 from mark M4 to M5: direction = 158.0, distance = 45.31
+Tack 5: speed = 93.5, direction = 158.0, distance = 45.31
+
+Leg 6 from mark M5 to M6: direction = 271.7, distance = 67.03
+Tack 6: speed = 93.5, direction = 271.7, distance = 67.03
+
+Leg 7 from mark M6 to M7: direction = 144.8, distance = 20.81
+Tack 7: speed = 93.5, direction = 144.8, distance = 20.81
+
+Race 87 was 337.06 nm long with 7 tacks
+Estimated race duration is 9.86 hours with 4.80 hours of tack penalty
+
+Race 88 has 7 legs
+The race layout is 429.74 nm long
+
+Leg 1 from mark M0 to M1: direction = 133.4, distance = 74.28
+Tack 1: speed = 19.2, direction = 133.4, distance = 74.28
+
+Leg 2 from mark M1 to M2: direction = 263.6, distance = 71.45
+Tack 2: speed = 48.0, direction = 263.6, distance = 71.45
+
+Leg 3 from mark M2 to M3: direction = 85.7, distance = 67.19
+Tack 3: speed = 19.2, direction = 122.0, distance = 48.58
+Tack 4: speed = 19.2, direction = 40.0, distance = 40.14
+
+Leg 4 from mark M3 to M4: direction = 284.4, distance = 72.28
+Tack 5: speed = 57.6, direction = 284.4, distance = 72.28
+
+Leg 5 from mark M4 to M5: direction = 353.4, distance = 52.35
+Tack 6: speed = 19.2, direction = 353.4, distance = 52.35
+
+Leg 6 from mark M5 to M6: direction = 130.2, distance = 68.12
+Tack 7: speed = 19.2, direction = 130.2, distance = 68.12
+
+Leg 7 from mark M6 to M7: direction = 131.6, distance = 24.08
+Tack 8: speed = 19.2, direction = 131.6, distance = 24.08
+
+Race 88 was 451.27 nm long with 8 tacks
+Estimated race duration is 23.56 hours with 4.20 hours of tack penalty
+
+Race 89 has 8 legs
+The race layout is 327.33 nm long
+
+Leg 1 from mark M0 to M1: direction = 80.5, distance = 42.58
+Tack 1: speed = 28.0, direction = 80.5, distance = 42.58
+
+Leg 2 from mark M1 to M2: direction = 213.7, distance = 10.82
+Tack 2: speed = 20.0, direction = 213.7, distance = 10.82
+
+Leg 3 from mark M2 to M3: direction = 112.1, distance = 34.54
+Tack 3: speed = 28.0, direction = 112.1, distance = 34.54
+
+Leg 4 from mark M3 to M4: direction = 257.3, distance = 41.00
+Tack 4: speed = 20.0, direction = 257.3, distance = 41.00
+
+Leg 5 from mark M4 to M5: direction = 53.8, distance = 69.40
+Tack 5: speed = 28.0, direction = 53.8, distance = 69.40
+
+Leg 6 from mark M5 to M6: direction = 301.4, distance = 48.02
+Tack 6: speed = 20.0, direction = 301.4, distance = 48.02
+
+Leg 7 from mark M6 to M7: direction = 195.2, distance = 49.73
+Tack 7: speed = 20.0, direction = 195.2, distance = 49.73
+
+Leg 8 from mark M7 to M8: direction = 129.8, distance = 31.24
+Tack 8: speed = 28.0, direction = 129.8, distance = 31.24
+
+Race 89 was 327.33 nm long with 8 tacks
+Estimated race duration is 23.73 hours with 6.30 hours of tack penalty
+
+Race 90 has 7 legs
+The race layout is 486.62 nm long
+
+Leg 1 from mark M0 to M1: direction = 19.0, distance = 33.84
+Tack 1: speed = 67.2, direction = 19.0, distance = 33.84
+
+Leg 2 from mark M1 to M2: direction = 175.8, distance = 68.18
+Tack 2: speed = 44.8, direction = 175.8, distance = 68.18
+
+Leg 3 from mark M2 to M3: direction = 288.4, distance = 47.43
+Tack 3: speed = 67.2, direction = 288.4, distance = 47.43
+
+Leg 4 from mark M3 to M4: direction = 305.8, distance = 53.01
+Tack 4: speed = 67.2, direction = 305.8, distance = 53.01
+
+Leg 5 from mark M4 to M5: direction = 117.3, distance = 102.42
+Tack 5: speed = 44.8, direction = 117.3, distance = 102.42
+
+Leg 6 from mark M5 to M6: direction = 335.4, distance = 79.20
+Tack 6: speed = 67.2, direction = 335.4, distance = 79.20
+
+Leg 7 from mark M6 to M7: direction = 159.4, distance = 102.53
+Tack 7: speed = 44.8, direction = 170.0, distance = 79.93
+Tack 8: speed = 44.8, direction = 128.0, distance = 28.07
+
+Race 90 was 492.09 nm long with 8 tacks
+Estimated race duration is 12.70 hours with 2.10 hours of tack penalty
+
+Race 91 has 6 legs
+The race layout is 362.33 nm long
+
+Leg 1 from mark M0 to M1: direction = 327.1, distance = 84.60
+Tack 1: speed = 34.8, direction = 338.0, distance = 76.58
+Tack 2: speed = 34.8, direction = 270.0, distance = 17.31
+
+Leg 2 from mark M1 to M2: direction = 252.2, distance = 29.41
+Tack 3: speed = 34.8, direction = 252.2, distance = 29.41
+
+Leg 3 from mark M2 to M3: direction = 155.2, distance = 73.82
+Tack 4: speed = 63.8, direction = 155.2, distance = 73.82
+
+Leg 4 from mark M3 to M4: direction = 40.9, distance = 39.70
+Tack 5: speed = 98.6, direction = 40.9, distance = 39.70
+
+Leg 5 from mark M4 to M5: direction = 289.7, distance = 74.33
+Tack 6: speed = 34.8, direction = 338.0, distance = 26.96
+Tack 7: speed = 34.8, direction = 270.0, distance = 59.90
+
+Leg 6 from mark M5 to M6: direction = 55.8, distance = 60.46
+Tack 8: speed = 98.6, direction = 55.8, distance = 60.46
+
+Race 91 was 384.15 nm long with 8 tacks
+Estimated race duration is 15.41 hours with 6.30 hours of tack penalty
+
+Race 92 has 3 legs
+The race layout is 95.91 nm long
+
+Leg 1 from mark M0 to M1: direction = 138.0, distance = 68.68
+Tack 1: speed = 7.0, direction = 163.0, distance = 56.04
+Tack 2: speed = 7.0, direction = 85.0, distance = 29.73
+
+Leg 2 from mark M1 to M2: direction = 128.7, distance = 12.81
+Tack 3: speed = 7.0, direction = 163.0, distance = 9.04
+Tack 4: speed = 7.0, direction = 85.0, distance = 7.39
+
+Leg 3 from mark M2 to M3: direction = 326.3, distance = 14.42
+Tack 5: speed = 19.6, direction = 326.3, distance = 14.42
+
+Race 92 was 116.61 nm long with 5 tacks
+Estimated race duration is 19.83 hours with 3.60 hours of tack penalty
+
+Race 93 has 7 legs
+The race layout is 340.02 nm long
+
+Leg 1 from mark M0 to M1: direction = 315.0, distance = 16.97
+Tack 1: speed = 15.0, direction = 16.0, distance = 9.79
+Tack 2: speed = 15.0, direction = 280.0, distance = 14.92
+
+Leg 2 from mark M1 to M2: direction = 49.9, distance = 108.58
+Tack 3: speed = 45.0, direction = 49.9, distance = 108.58
+
+Leg 3 from mark M2 to M3: direction = 231.6, distance = 61.22
+Tack 4: speed = 45.0, direction = 231.6, distance = 61.22
+
+Leg 4 from mark M3 to M4: direction = 26.6, distance = 6.71
+Tack 5: speed = 15.0, direction = 26.6, distance = 6.71
+
+Leg 5 from mark M4 to M5: direction = 56.3, distance = 50.48
+Tack 6: speed = 45.0, direction = 56.3, distance = 50.48
+
+Leg 6 from mark M5 to M6: direction = 264.1, distance = 48.26
+Tack 7: speed = 15.0, direction = 264.1, distance = 48.26
+
+Leg 7 from mark M6 to M7: direction = 217.3, distance = 47.80
+Tack 8: speed = 45.0, direction = 217.3, distance = 47.80
+
+Race 93 was 347.76 nm long with 8 tacks
+Estimated race duration is 13.37 hours with 2.10 hours of tack penalty
+
+Race 94 has 4 legs
+The race layout is 182.00 nm long
+
+Leg 1 from mark M0 to M1: direction = 265.0, distance = 57.22
+Tack 1: speed = 83.2, direction = 265.0, distance = 57.22
+
+Leg 2 from mark M1 to M2: direction = 69.2, distance = 75.96
+Tack 2: speed = 83.2, direction = 69.2, distance = 75.96
+
+Leg 3 from mark M2 to M3: direction = 346.0, distance = 24.74
+Tack 3: speed = 62.4, direction = 346.0, distance = 24.74
+
+Leg 4 from mark M3 to M4: direction = 175.2, distance = 24.08
+Tack 4: speed = 26.0, direction = 175.2, distance = 24.08
+
+Race 94 was 182.00 nm long with 4 tacks
+Estimated race duration is 6.12 hours with 2.40 hours of tack penalty
+
+Race 95 has 3 legs
+The race layout is 150.11 nm long
+
+Leg 1 from mark M0 to M1: direction = 278.7, distance = 46.53
+Tack 1: speed = 37.8, direction = 278.7, distance = 46.53
+
+Leg 2 from mark M1 to M2: direction = 71.8, distance = 67.36
+Tack 2: speed = 14.7, direction = 85.0, distance = 50.77
+Tack 3: speed = 14.7, direction = 39.0, distance = 21.33
+
+Leg 3 from mark M2 to M3: direction = 263.7, distance = 36.22
+Tack 4: speed = 37.8, direction = 263.7, distance = 36.22
+
+Race 95 was 154.85 nm long with 4 tacks
+Estimated race duration is 8.89 hours with 1.80 hours of tack penalty
+
+Race 96 has 4 legs
+The race layout is 260.35 nm long
+
+Leg 1 from mark M0 to M1: direction = 0.0, distance = 28.00
+Tack 1: speed = 25.6, direction = 101.0, distance = 2.54
+Tack 2: speed = 25.6, direction = 355.0, distance = 28.59
+
+Leg 2 from mark M1 to M2: direction = 123.1, distance = 51.31
+Tack 3: speed = 25.6, direction = 123.1, distance = 51.31
+
+Leg 3 from mark M2 to M3: direction = 15.2, distance = 83.93
+Tack 4: speed = 25.6, direction = 101.0, distance = 30.14
+Tack 5: speed = 25.6, direction = 355.0, distance = 87.08
+
+Leg 4 from mark M3 to M4: direction = 212.4, distance = 97.10
+Tack 6: speed = 48.0, direction = 212.4, distance = 97.10
+
+Race 96 was 296.77 nm long with 6 tacks
+Estimated race duration is 11.02 hours with 1.00 hours of tack penalty
+
+Race 97 has 6 legs
+The race layout is 289.76 nm long
+
+Leg 1 from mark M0 to M1: direction = 240.3, distance = 24.19
+Tack 1: speed = 27.3, direction = 240.3, distance = 24.19
+
+Leg 2 from mark M1 to M2: direction = 47.7, distance = 60.88
+Tack 2: speed = 12.6, direction = 101.0, distance = 41.48
+Tack 3: speed = 12.6, direction = 5.0, distance = 49.10
+
+Leg 3 from mark M2 to M3: direction = 141.5, distance = 49.82
+Tack 4: speed = 12.6, direction = 141.5, distance = 49.82
+
+Leg 4 from mark M3 to M4: direction = 341.6, distance = 28.46
+Tack 5: speed = 12.6, direction = 341.6, distance = 28.46
+
+Leg 5 from mark M4 to M5: direction = 277.7, distance = 74.67
+Tack 6: speed = 37.8, direction = 277.7, distance = 74.67
+
+Leg 6 from mark M5 to M6: direction = 138.9, distance = 51.74
+Tack 7: speed = 12.6, direction = 138.9, distance = 51.74
+
+Race 97 was 319.46 nm long with 7 tacks
+Estimated race duration is 23.87 hours with 3.00 hours of tack penalty
+
+Race 98 has 8 legs
+The race layout is 434.48 nm long
+
+Leg 1 from mark M0 to M1: direction = 15.1, distance = 26.93
+Tack 1: speed = 48.0, direction = 70.0, distance = 18.57
+Tack 2: speed = 48.0, direction = 332.0, distance = 22.25
+
+Leg 2 from mark M1 to M2: direction = 206.6, distance = 35.78
+Tack 3: speed = 52.8, direction = 206.6, distance = 35.78
+
+Leg 3 from mark M2 to M3: direction = 9.9, distance = 87.30
+Tack 4: speed = 48.0, direction = 70.0, distance = 54.15
+Tack 5: speed = 48.0, direction = 332.0, distance = 76.43
+
+Leg 4 from mark M3 to M4: direction = 167.2, distance = 76.90
+Tack 6: speed = 52.8, direction = 167.2, distance = 76.90
+
+Leg 5 from mark M4 to M5: direction = 313.8, distance = 105.38
+Tack 7: speed = 48.0, direction = 313.8, distance = 105.38
+
+Leg 6 from mark M5 to M6: direction = 94.0, distance = 43.10
+Tack 8: speed = 48.0, direction = 94.0, distance = 43.10
+
+Leg 7 from mark M6 to M7: direction = 164.1, distance = 29.12
+Tack 9: speed = 52.8, direction = 164.1, distance = 29.12
+
+Leg 8 from mark M7 to M8: direction = 205.7, distance = 29.97
+Tack 10: speed = 52.8, direction = 205.7, distance = 29.97
+
+Race 98 was 491.65 nm long with 10 tacks
+Estimated race duration is 12.52 hours with 1.80 hours of tack penalty
+
+Race 99 has 4 legs
+The race layout is 244.62 nm long
+
+Leg 1 from mark M0 to M1: direction = 297.8, distance = 62.18
+Tack 1: speed = 49.4, direction = 297.8, distance = 62.18
+
+Leg 2 from mark M1 to M2: direction = 110.2, distance = 72.45
+Tack 2: speed = 49.4, direction = 110.2, distance = 72.45
+
+Leg 3 from mark M2 to M3: direction = 4.1, distance = 69.18
+Tack 3: speed = 28.6, direction = 4.1, distance = 69.18
+
+Leg 4 from mark M3 to M4: direction = 301.0, distance = 40.82
+Tack 4: speed = 49.4, direction = 301.0, distance = 40.82
+
+Race 99 was 244.62 nm long with 4 tacks
+Estimated race duration is 6.77 hours with 0.60 hours of tack penalty
+
+Race 100 has 4 legs
+The race layout is 256.45 nm long
+
+Leg 1 from mark M0 to M1: direction = 315.0, distance = 12.73
+Tack 1: speed = 30.0, direction = 315.0, distance = 12.73
+
+Leg 2 from mark M1 to M2: direction = 119.5, distance = 97.62
+Tack 2: speed = 95.0, direction = 119.5, distance = 97.62
+
+Leg 3 from mark M2 to M3: direction = 293.1, distance = 81.54
+Tack 3: speed = 30.0, direction = 293.1, distance = 81.54
+
+Leg 4 from mark M3 to M4: direction = 106.2, distance = 64.56
+Tack 4: speed = 95.0, direction = 106.2, distance = 64.56
+
+Race 100 was 256.45 nm long with 4 tacks
+Estimated race duration is 7.55 hours with 2.70 hours of tack penalty
+
